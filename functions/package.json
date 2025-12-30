@@ -2,7 +2,7 @@
     "name": "functions",
     "scripts": {
         "build": "node build.js",
-        "build:local": "esbuild src/index.ts --platform=node --bundle --format=cjs --outfile=lib/index.cjs --external:firebase-functions --external:firebase-admin --external:express --external:zod --external:ws --external:dotenv",
+        "build:local": "esbuild src/index.ts --platform=node --bundle --format=cjs --outfile=lib/index.cjs --external:firebase-functions --external:firebase-admin --external:express --external:zod --external:ws --external:dotenv --external:drizzle-orm --external:@neondatabase/serverless",
         "build:watch": "npm run build -- --watch",
         "serve": "npm run build && firebase emulators:start --only functions",
         "shell": "npm run build && firebase functions:shell",
