@@ -29,6 +29,12 @@ jobs:
         env:
           VITE_FIREBASE_API_KEY: ${{ secrets.VITE_FIREBASE_API_KEY }}
 
+      - name: Build and Install Functions
+        working-directory: functions
+        run: |
+          npm ci
+          npm run build
+
       - name: Deploy to Firebase
         run: |
           npm install -g firebase-tools

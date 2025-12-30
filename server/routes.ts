@@ -33,11 +33,12 @@ export async function registerRoutes(app: Express): Promise<Server> {
   app.use("/api/mental-health", mentalHealthRouter); // /journal
 
   // ShieldCore: Mock Breach Scan API
+  // ShieldCore: Mock Breach Scan API
   app.post("/api/breach-scan", async (req, res) => {
+    // ... existing mock code ...
     // Simulate delay
     await new Promise(r => setTimeout(r, 1000));
-
-    // Mock response
+    // ...
     res.json({
       score: 45,
       safeCount: 12,
@@ -45,23 +46,40 @@ export async function registerRoutes(app: Express): Promise<Server> {
         {
           domain: "adobe.com",
           date: "2013-10-04",
-          description: "In October 2013, 153 million Adobe accounts were breached. The data included user IDs, names, encrypted passwords and plain text password hints.",
+          description: "In October 2013, 153 million Adobe accounts were breached.",
           dataClasses: ["Email addresses", "Password hints", "Passwords", "Usernames"]
         },
         {
           domain: "linkedin.com",
           date: "2012-05-15",
-          description: "In 2012, LinkedIn was hacked and 6.5 million password hashes were posted to a Russian hacker forum.",
+          description: "In 2012, LinkedIn was hacked.",
           dataClasses: ["Email addresses", "Passwords"]
-        },
-        {
-          domain: "canva.com",
-          date: "2019-05-24",
-          description: "In May 2019, Canva suffered a data breach that impacted 137 million subscribers. The exposed data included email addresses, names, cities and bcrypt hashed passwords.",
-          dataClasses: ["Email addresses", "Names", "Passwords", "Usernames", "Locations"]
         }
       ]
     });
+  });
+
+  // Enable/Disable Monitoring
+  app.post("/api/monitor-emails", async (req, res) => {
+    if (!req.user) return res.status(401).send("Unauthorized");
+
+    // In a real app properly import db from firebase-admin setup
+    // For now assuming existing user flow or just using a mock response 
+    // unless we import admin from './firebase' (if it exists server side)
+
+    // We'll mock the success for now as we haven't set up full admin routes file for this yet.
+    // Ideally this goes into a controller.
+
+    console.log(`User ${req.user.id} updated monitoring: ${req.body.enabled}`);
+    res.json({ success: true, status: req.body.enabled ? "active" : "inactive" });
+  });
+
+  // Get Alerts
+  app.get("/api/breach-alerts", async (req, res) => {
+    // Mock alerts
+    res.json([
+      { id: 1, title: "email@example.com found in 2024 Breach", type: "critical" }
+    ]);
   });
 
   // Webhooks - mount at both locations to support existing external configs

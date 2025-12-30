@@ -1,3 +1,4 @@
+
 import { useState, useEffect } from "react";
 import { Link } from "wouter";
 import { Shield, AlertTriangle, CheckCircle, ArrowRight, Play, Eye } from "lucide-react";
@@ -5,6 +6,7 @@ import { Card, CardContent, CardHeader, CardTitle, CardDescription } from "@/com
 import { Button } from "@/components/ui/button";
 import { Progress } from "@/components/ui/progress";
 import { useAuth } from "@/hooks/use-auth";
+import { MonitoringToggle } from "@/components/MonitoringToggle";
 
 export default function SecurityDashboard() {
     const { user } = useAuth();
@@ -113,37 +115,19 @@ export default function SecurityDashboard() {
                         <CardTitle>Actions</CardTitle>
                     </CardHeader>
                     <CardContent className="space-y-3">
-                        <Link href="/scan">
-                            <Button variant="outline" className="w-full justify-between h-auto py-4">
-                                <span className="flex items-center gap-2">
-                                    <Eye className="h-5 w-5 text-primary" />
-                                    Run Breach Scan
-                                </span>
-                                <ArrowRight className="h-4 w-4" />
+                        <div className="grid grid-cols-2 gap-3">
+                            <Link href="/scan">
+                                <Button className="w-full text-xs font-bold" variant="default">
+                                    SCAN NOW
+                                </Button>
+                            </Link>
+                            <Button variant="outline" className="w-full text-xs font-bold text-muted-foreground" disabled>
+                                WEEKLY AUTO
                             </Button>
-                        </Link>
-                        <Link href="/security-checkup">
-                            <Button variant="outline" className="w-full justify-between h-auto py-4">
-                                <span className="flex items-center gap-2">
-                                    <Shield className="h-5 w-5 text-primary" />
-                                    Update Checkup
-                                </span>
-                                <ArrowRight className="h-4 w-4" />
-                            </Button>
-                        </Link>
+                        </div>
 
-                        <div className="pt-2 border-t mt-2">
-                            <div className="flex items-center justify-between">
-                                <span className="flex items-center gap-2 font-medium">
-                                    <Shield className="h-5 w-5 text-green-600" />
-                                    Continuous Monitoring
-                                </span>
-                                {/* In a real app, this would be a Switch component wired to backend */}
-                                <span className="text-xs font-bold text-green-600 bg-green-100 px-2 py-1 rounded">ACTIVE</span>
-                            </div>
-                            <p className="text-xs text-muted-foreground mt-1">
-                                We automatically scan your email daily for new breaches.
-                            </p>
+                        <div className="pt-4 mt-2">
+                            <MonitoringToggle />
                         </div>
                     </CardContent>
                 </Card>
