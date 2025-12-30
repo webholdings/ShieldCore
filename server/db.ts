@@ -46,13 +46,13 @@ if (getApps().length === 0) {
         try {
           initializeApp({
             credential: applicationDefault(),
-            serviceAccountId: 'creativewavesapp2@appspot.gserviceaccount.com',
+            projectId: process.env.GCLOUD_PROJECT || 'coreshield-cae1b',
           });
           console.log('[DB] Firebase Admin initialized successfully (Cloud Environment)');
         } catch (err: any) {
           console.error('[DB] Failed to initialize with applicationDefault:', err);
           initializeApp({
-            serviceAccountId: 'creativewavesapp2@appspot.gserviceaccount.com',
+            projectId: process.env.GCLOUD_PROJECT || 'coreshield-cae1b',
           });
         }
       } else {
