@@ -102,8 +102,7 @@ async function ensureRoutesInitialized() {
 // Wrap in a handler that ensures routes are initialized
 export const api = onRequest({
     region: "us-central1",
-    invoker: "public",
-    secrets: ["OPENROUTER_API_KEY"]
+    invoker: "public"
 }, async (req, res) => {
     console.log(`[API] Request received: ${req.method} ${req.url}`);
     console.log(`[API] Path: ${req.path}`);
