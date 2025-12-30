@@ -36,31 +36,21 @@ if (getApps().length === 0) {
       }
 
       // Check if we are in Cloud Functions environment
-      const isCloudEnv = !!(process.env.K_SERVICE || process.env.FUNCTION_NAME);
+      const isCloudEnv = !!(process.env.K_SERVICE || process.env.FUNCTION_NAME || process.env.FIREBASE_CONFIG);
 
       // Attempt initialization
       // usage of applicationDefault() locally can hang if no credentials are found,
       // breaking the Firebase CLI deployment "discovery" phase.
       // So we only use it if we are confirmed in Cloud environment or if we want to force it.
       if (isCloudEnv) {
-        try {
-          initializeApp({
-            credential: applicationDefault(),
-            projectId: process.env.GCLOUD_PROJECT || 'coreshield-cae1b',
-          });
-          console.log('[DB] Firebase Admin initialized successfully (Cloud Environment)');
-        } catch (err: any) {
-          console.error('[DB] Failed to initialize with applicationDefault:', err);
-          initializeApp({
-            projectId: process.env.GCLOUD_PROJECT || 'coreshield-cae1b',
-          });
-        }
+        // In Cloud Functions, just use initializeApp() with no args - it auto-detects credentials
+        initializeApp();
+        console.log('[DB] Firebase Admin initialized successfully (Cloud Environment - auto-detect)');
       } else {
         // Local environment without service account file - do NOT use applicationDefault() to avoid hangs
         // Just initialize with projectId so the app structure loads (for deployment discovery)
         console.log('[DB] Local environment detected (no service-account.json). Skipping applicationDefault() to prevent hangs.');
         initializeApp({
-          serviceAccountId: 'firebase-adminsdk-fbsvc@coreshield-cae1b.iam.gserviceaccount.com',
           projectId: 'coreshield-cae1b'
         });
       }

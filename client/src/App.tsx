@@ -15,7 +15,7 @@ import { AppSidebar } from "@/components/AppSidebar";
 import { useLanguage } from "@/contexts/LanguageContext";
 import { Button } from "@/components/ui/button";
 import { Menu, Loader2 } from "lucide-react";
-import logoUrl from "@assets/creativewaves_logo_1761910334299.png";
+import logoUrl from "@assets/shieldcore_logo.png";
 import { Suspense, lazy, useState, useEffect, useRef } from "react";
 import { PWAInstallPrompt } from "@/components/PWAInstallPrompt";
 
@@ -183,7 +183,7 @@ function SidebarLayout() {
               onClick={() => setLocation('/dashboard')}
               className="flex items-center gap-2 overflow-hidden hover:opacity-80 transition-opacity cursor-pointer"
             >
-              <img src={logoUrl} alt="CreativeWaves Logo" className="h-8 w-auto object-contain" />
+              <img src={logoUrl} alt="ShieldCore Logo" className="h-8 w-auto object-contain" />
             </button>
           </div>
           <div className="flex items-center gap-1 md:gap-2 flex-shrink-0">

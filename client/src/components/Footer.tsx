@@ -17,7 +17,7 @@ export function Footer() {
         <div className="flex flex-col md:flex-row justify-between items-center gap-6">
           <div className="text-center md:text-left">
             <p className="text-sm text-muted-foreground">
-              © {currentYear} CreativeWaves. {footer.all_rights_reserved}
+              © {currentYear} ShieldCore. {footer.all_rights_reserved}
             </p>
           </div>
 

@@ -1,6 +1,6 @@
 export const translations = {
   en: {
-    app_name: "CreativeWaves",
+    app_name: "ShieldCore",
     nav: {
       menu: "MENU",
       dashboard: "Dashboard",
@@ -996,7 +996,7 @@ export const translations = {
     }
   },
   de: {
-    app_name: "CreativeWaves",
+    app_name: "ShieldCore",
     nav: {
       menu: "MENÜ",
       dashboard: "Dashboard",

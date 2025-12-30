@@ -9,7 +9,7 @@ import { Label } from '@/components/ui/label';
 import { Loader2, ArrowRight } from 'lucide-react';
 import { useMutation } from '@tanstack/react-query';
 import { useToast } from '@/hooks/use-toast';
-import logoUrl from "@assets/creativewaves_logo_1761910334299.png";
+import logoUrl from "@assets/shieldcore_logo.png";
 import { LanguageToggle } from '@/components/LanguageToggle';
 
 // Admin email that must use Google Sign-In only
@@ -139,7 +139,7 @@ export default function AuthPage() {
         <div className="flex items-center justify-between px-2">
           <img
             src={logoUrl}
-            alt="CreativeWaves"
+            alt="ShieldCore"
             className="h-16 w-auto object-contain drop-shadow-sm"
           />
           <LanguageToggle />
@@ -262,7 +262,7 @@ export default function AuthPage() {
 
         {/* Footer */}
         <div className="text-center text-sm text-muted-foreground/80">
-          <p>&copy; {new Date().getFullYear()} CreativeWaves</p>
+          <p>&copy; {new Date().getFullYear()} ShieldCore</p>
           <div className="mt-2 space-x-4">
             <a href="/terms" className="hover:text-primary transition-colors">{t.footer?.terms || "Terms"}</a>
             <a href="/privacy" className="hover:text-primary transition-colors">{t.footer?.privacy || "Privacy"}</a>
