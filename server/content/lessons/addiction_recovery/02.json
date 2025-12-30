@@ -1,0 +1,13 @@
+{
+  "id": "addiction_recovery_02",
+  "courseId": "addiction_recovery",
+  "orderIndex": 2,
+  "estimatedMinutes": 12,
+  "youtubeVideos": [
+    {
+      "title": "Managing Triggers - Russell Brand",
+      "url": "https://www.youtube.com/watch?v=xdkJDuggdJE",
+      "duration": "10:15"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "productivity_focus_04",
+  "courseId": "productivity_focus",
+  "orderIndex": 4,
+  "estimatedMinutes": 12,
+  "youtubeVideos": [
+    {
+      "title": "Managing Energy, Not Time",
+      "url": "https://www.youtube.com/watch?v=BKF_H2jMp0I",
+      "duration": "11:10"
+    }
+  ]
+}

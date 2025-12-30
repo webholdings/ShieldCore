@@ -1,0 +1,55 @@
+0-30T19:40:10+00:00 Information Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => a4a6321b3aa345ca4241c334c8390d1d
+            [Date] => 30. Oktober 2025 @ 19:40
+            [URL] => https://creative-waves-ricardoreplit2.replit.app/api/webhook/subscription-created
+            [Duration] => 0.77244
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/10.3.3 Hookshot (WordPress/6.8.3)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://buy.creativewaves.me/
+                            [X-WC-Webhook-Topic] => subscription.created
+                            [X-WC-Webhook-Resource] => subscription
+                            [X-WC-Webhook-Event] => created
+                            [X-WC-Webhook-Signature] => +34b/0BEvDZI3iiE7elR5g90imYcalDfo2o8CvFjLW4=
+                            [X-WC-Webhook-ID] => 1
+                            [X-WC-Webhook-Delivery-ID] => a4a6321b3aa345ca4241c334c8390d1d
+                        )
+
+                )
+
+            [Body] => {\"id\":459,\"parent_id\":458,\"status\":\"active\",\"currency\":\"EUR\",\"version\":\"10.3.3\",\"prices_include_tax\":false,\"date_created\":\"2025-10-30T20:39:22\",\"date_modified\":\"2025-10-30T20:39:42\",\"discount_total\":\"0.00\",\"discount_tax\":\"0.00\",\"shipping_total\":\"0.00\",\"shipping_tax\":\"0.00\",\"cart_tax\":\"0.00\",\"total\":\"49.99\",\"total_tax\":\"0.00\",\"customer_id\":1,\"order_key\":\"wc_order_4yNJlrtWyXCF7\",\"billing\":{\"first_name\":\"\",\"last_name\":\"\",\"company\":\"\",\"address_1\":\"\",\"address_2\":\"\",\"city\":\"\",\"state\":\"\",\"postcode\":\"\",\"country\":\"PT\",\"email\":\"ricdes@gmail.com\",\"phone\":\"\"},\"shipping\":{\"first_name\":\"\",\"last_name\":\"\",\"company\":\"\",\"address_1\":\"\",\"address_2\":\"\",\"city\":\"\",\"state\":\"\",\"postcode\":\"\",\"country\":\"PT\",\"phone\":\"\"},\"payment_method\":\"wfocu_test\",\"payment_method_title\":\"Test Gateway By FunnelKit\",\"customer_ip_address\":\"2a09:bac1:5e40:8::6b:e1\",\"customer_user_agent\":\"Mozilla\\/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit\\/537.36 (KHTML, like Gecko) Chrome\\/141.0.0.0 Safari\\/537.36\",\"created_via\":\"checkout\",\"customer_note\":\"\",\"date_completed\":\"2025-10-30T20:39:41\",\"date_paid\":\"2025-10-30T20:39:23\",\"number\":\"459\",\"meta_data\":[{\"id\":4883,\"key\":\"_subscription_renewal_order_ids_cache\",\"value\":[]},{\"id\":4884,\"key\":\"_subscription_resubscribe_order_ids_cache\",\"value\":[]},{\"id\":4885,\"key\":\"_subscription_switch_order_ids_cache\",\"value\":[]},{\"id\":4886,\"key\":\"_wc_order_attribution_device_type\",\"value\":\"Desktop\"},{\"id\":4887,\"key\":\"_wc_order_attribution_referrer\",\"value\":\"https:\\/\\/8a41becb-34e2-4045-adb6-505e79e94031-00-1oddufsnocnlz.worf.replit.dev\\/\"},{\"id\":4888,\"key\":\"_wc_order_attribution_session_count\",\"value\":\"20\"},{\"id\":4889,\"key\":\"_wc_order_attribution_session_entry\",\"value\":\"https:\\/\\/buy.creativewaves.me\\/checkouts\\/checkout-page\\/\"},{\"id\":4890,\"key\":\"_wc_order_attribution_session_pages\",\"value\":\"4\"},{\"id\":4891,\"key\":\"_wc_order_attribution_session_start_time\",\"value\":\"2025-10-30 15:24:39\"},{\"id\":4892,\"key\":\"_wc_order_attribution_source_type\",\"value\":\"referral\"},{\"id\":4893,\"key\":\"_wc_order_attribution_user_agent\",\"value\":\"Mozilla\\/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit\\/537.36 (KHTML, like Gecko) Chrome\\/141.0.0.0 Safari\\/537.36\"},{\"id\":4894,\"key\":\"_wc_order_attribution_utm_content\",\"value\":\"\\/\"},{\"id\":4895,\"key\":\"_wc_order_attribution_utm_medium\",\"value\":\"referral\"},{\"id\":4896,\"key\":\"_wc_order_attribution_utm_source\",\"value\":\"8a41becb-34e2-4045-adb6-505e79e94031-00-1oddufsnocnlz.worf.replit.dev\"},{\"id\":4897,\"key\":\"_wfacp_post_id\",\"value\":\"63\"},{\"id\":4898,\"key\":\"_wfacp_report_data\",\"value\":{\"wfacp_total\":\"49.99\",\"funnel_id\":\"1\"}},{\"id\":4899,\"key\":\"_wfacp_source\",\"value\":\"https:\\/\\/buy.creativewaves.me\\/checkouts\\/checkout-page\\/\"},{\"id\":4900,\"key\":\"_wfacp_timezone\",\"value\":\"Europe\\/Lisbon\"},{\"id\":4901,\"key\":\"_wffn_tracking_data\",\"value\":{\"utm_source\":\"\",\"utm_medium\":\"\",\"utm_campaign\":\"\",\"utm_term\":\"\",\"utm_content\":\"\",\"first_landing_url\":\"\\/my-account\\/\",\"browser\":\"Chrome\",\"first_click\":\"2025-10-29 22:00:27\",\"device\":\"desktop\",\"click_id\":\"\",\"referrer\":\"www.upwork.com\",\"journey\":\"\",\"source_id\":0}},{\"id\":4902,\"key\":\"_wfob_report_data\",\"value\":[]},{\"id\":4903,\"key\":\"_woofunnel_cid\",\"value\":\"4\"},{\"id\":4904,\"key\":\"bwfan_cart_id\",\"value\":\"17\"},{\"id\":4905,\"key\":\"is_vat_exempt\",\"value\":\"no\"},{\"id\":4906,\"key\":\"marketing_status\",\"value\":\"0\"}],\"line_items\":[{\"id\":171,\"name\":\"CreativeWaves - Kognitiver Boost\",\"product_id\":71,\"variation_id\":0,\"quantity\":1,\"tax_class\":\"\",\"subtotal\":\"49.99\",\"subtotal_tax\":\"0.00\",\"total\":\"49.99\",\"total_tax\":\"0.00\",\"taxes\":[],\"meta_data\":[{\"id\":1933,\"key\":\"_wfacp_product\",\"value\":\"1\",\"display_key\":\"_wfacp_product\",\"display_value\":\"1\"},{\"id\":1934,\"key\":\"_wfacp_product_key\",\"value\":\"wfacp_68fa011e09bde\",\"display_key\":\"_wfacp_product_key\",\"display_value\":\"wfacp_68fa011e09bde\"},{\"id\":1935,\"key\":\"_wfacp_options\",\"value\":{\"title\":\"CreativeWaves - Kognitiver Boost\",\"discount_type\":\"percent_discount_sale\",\"discount_amount\":\"0\",\"discount_price\":\"0\",\"quantity\":1,\"type\":\"subscription\",\"id\":\"71\",\"parent_product_id\":\"0\",\"stock\":\"1\",\"is_sold_individually\":\"\",\"product_image\":\"https:\\/\\/buy.creativewaves.me\\/wp-content\\/uploads\\/2025\\/10\\/juneMockupDE-1-150x150.avif\",\"product_type\":\"subscription\",\"product_attribute\":\"-\",\"is_on_sale\":\"\",\"currency_symbol\":\"$\",\"product_stock_status\":\"1\",\"product_stock\":\"in-stock\",\"price_range\":\"\",\"product_status\":\"publish\",\"is_default\":true,\"org_quantity\":1,\"you_save_text\":\"Buy {{quantity}} and Save {{saving_value}} ({{saving_percentage}})\",\"whats_included\":\"\",\"enable_delete\":false,\"old_title\":\"CreativeWaves - Kognitiver Boost\",\"product_id\":\"71\",\"whats_include_heading\":\"CreativeWaves - Kognitiver Boost\",\"item_key\":\"wfacp_68fa011e09bde\"},\"display_key\":\"_wfacp_options\",\"display_value\":{\"title\":\"CreativeWaves - Kognitiver Boost\",\"discount_type\":\"percent_discount_sale\",\"discount_amount\":\"0\",\"discount_price\":\"0\",\"quantity\":1,\"type\":\"subscription\",\"id\":\"71\",\"parent_product_id\":\"0\",\"stock\":\"1\",\"is_sold_individually\":\"\",\"product_image\":\"https:\\/\\/buy.creativewaves.me\\/wp-content\\/uploads\\/2025\\/10\\/juneMockupDE-1-150x150.avif\",\"product_type\":\"subscription\",\"product_attribute\":\"-\",\"is_on_sale\":\"\",\"currency_symbol\":\"$\",\"product_stock_status\":\"1\",\"product_stock\":\"in-stock\",\"price_range\":\"\",\"product_status\":\"publish\",\"is_default\":true,\"org_quantity\":1,\"you_save_text\":\"Buy {{quantity}} and Save {{saving_value}} ({{saving_percentage}})\",\"whats_included\":\"\",\"enable_delete\":false,\"old_title\":\"CreativeWaves - Kognitiver Boost\",\"product_id\":\"71\",\"whats_include_heading\":\"CreativeWaves - Kognitiver Boost\",\"item_key\":\"wfacp_68fa011e09bde\"}}],\"sku\":\"\",\"global_unique_id\":\"\",\"price\":49.99,\"image\":{\"id\":\"72\",\"src\":\"https:\\/\\/buy.creativewaves.me\\/wp-content\\/uploads\\/2025\\/10\\/juneMockupDE-1.avif\"},\"parent_name\":null}],\"tax_lines\":[],\"shipping_lines\":[],\"fee_lines\":[],\"coupon_lines\":[],\"payment_url\":\"https:\\/\\/buy.creativewaves.me\\/checkout\\/order-pay\\/459\\/?pay_for_order=true&key=wc_order_4yNJlrtWyXCF7\",\"is_editable\":true,\"needs_payment\":false,\"needs_processing\":false,\"date_created_gmt\":\"2025-10-30T19:39:22\",\"date_modified_gmt\":\"2025-10-30T19:39:42\",\"date_completed_gmt\":\"2025-10-30T19:39:41\",\"date_paid_gmt\":\"2025-10-30T19:39:23\",\"billing_period\":\"month\",\"billing_interval\":\"1\",\"trial_period\":\"\",\"suspension_count\":0,\"requires_manual_renewal\":false,\"start_date_gmt\":\"2025-10-30T19:39:22\",\"trial_end_date_gmt\":\"\",\"next_payment_date_gmt\":\"2025-11-30T19:39:22\",\"last_payment_date_gmt\":\"2025-10-30T19:39:22\",\"cancelled_date_gmt\":\"\",\"end_date_gmt\":\"\",\"resubscribed_from\":\"\",\"resubscribed_subscription\":\"\",\"removed_line_items\":[],\"_links\":{\"self\":[{\"href\":\"https:\\/\\/buy.creativewaves.me\\/wp-json\\/wc\\/v3\\/subscriptions\\/459\",\"targetHints\":{\"allow\":[\"GET\",\"POST\",\"PUT\",\"PATCH\",\"DELETE\"]}}],\"collection\":[{\"href\":\"https:\\/\\/buy.creativewaves.me\\/wp-json\\/wc\\/v3\\/subscriptions\"}],\"email_templates\":[{\"embeddable\":true,\"href\":\"https:\\/\\/buy.creativewaves.me\\/wp-json\\/wc\\/v3\\/subscriptions\\/459\\/actions\\/email_templates\"}],\"customer\":[{\"href\":\"https:\\/\\/buy.creativewaves.me\\/wp-json\\/wc\\/v3\\/customers\\/1\"}],\"up\":[{\"href\":\"https:\\/\\/buy.creativewaves.me\\/wp-json\\/wc\\/v3\\/orders\\/458\"}]}}
+            [Response] => Array
+                (
+                    [Code] => 400
+                    [Message] => Bad Request
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-length] => 29
+                                    [content-type] => application/json; charset=utf-8
+                                    [date] => Thu, 30 Oct 2025 19:40:10 GMT
+                                    [etag] => W/"1d-mMQEZnTO/3qB7E+LMqZBtJ5tIa8"
+                                    [server] => Google Frontend
+                                    [strict-transport-security] => max-age=63072000; includeSubDomains
+                                    [x-cloud-trace-context] => 4663dd6e250201d6a7097bec44e29649;o=1
+                                    [x-powered-by] => Express
+                                    [via] => 1.1 google
+                                    [alt-svc] => h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+                                )
+
+                        )
+
+                    [Body] => {"error":"Email is required"}
+                )
+
+        )
+
+)

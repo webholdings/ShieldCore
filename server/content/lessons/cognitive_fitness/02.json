@@ -1,0 +1,13 @@
+{
+  "id": "cognitive_fitness_02",
+  "courseId": "cognitive_fitness",
+  "orderIndex": 2,
+  "estimatedMinutes": 12,
+  "youtubeVideos": [
+    {
+      "title": "How to Triple Your Memory - Jim Kwik",
+      "url": "https://www.youtube.com/watch?v=szqPAPKE5tQ",
+      "duration": "15:42"
+    }
+  ]
+}

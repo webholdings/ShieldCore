@@ -1,0 +1,13 @@
+{
+  "id": "productivity_focus_03",
+  "courseId": "productivity_focus",
+  "orderIndex": 3,
+  "estimatedMinutes": 12,
+  "youtubeVideos": [
+    {
+      "title": "Digital Minimalism - Cal Newport",
+      "url": "https://www.youtube.com/watch?v=F7i-jJ28hE8",
+      "duration": "13:45"
+    }
+  ]
+}

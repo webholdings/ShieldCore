@@ -1,0 +1,13 @@
+{
+  "id": "mindfulness_meditation_05",
+  "courseId": "mindfulness_meditation",
+  "orderIndex": 5,
+  "estimatedMinutes": 12,
+  "youtubeVideos": [
+    {
+      "title": "Everyday Mindfulness - Thich Nhat Hanh",
+      "url": "https://www.youtube.com/watch?v=3nw gYqFl-7s",
+      "duration": "11:20"
+    }
+  ]
+}

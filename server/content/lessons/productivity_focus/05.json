@@ -1,0 +1,13 @@
+{
+  "id": "productivity_focus_05",
+  "courseId": "productivity_focus",
+  "orderIndex": 5,
+  "estimatedMinutes": 12,
+  "youtubeVideos": [
+    {
+      "title": "Atomic Habits - James Clear",
+      "url": "https://www.youtube.com/watch?v=TQMbvJNRpLE",
+      "duration": "16:25"
+    }
+  ]
+}

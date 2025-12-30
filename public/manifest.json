@@ -1,0 +1,68 @@
+{
+  "name": "CreativeWaves - Cognitive Wellness",
+  "short_name": "CreativeWaves",
+  "description": "Cognitive wellness app for seniors with guided audio sessions, brain games, and mood tracking",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#F5F8FA",
+  "theme_color": "#3B9ECA",
+  "orientation": "portrait-primary",
+  "categories": [
+    "health",
+    "wellness",
+    "lifestyle"
+  ],
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Audio Sessions",
+      "short_name": "Audio",
+      "description": "Listen to guided audio sessions",
+      "url": "/audio",
+      "icons": [
+        {
+          "src": "/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
+      "name": "Brain Games",
+      "short_name": "Games",
+      "description": "Play cognitive training games",
+      "url": "/games",
+      "icons": [
+        {
+          "src": "/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
+      "name": "Dashboard",
+      "short_name": "Dashboard",
+      "description": "View your progress",
+      "url": "/dashboard",
+      "icons": [
+        {
+          "src": "/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    }
+  ]
+}

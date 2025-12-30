@@ -1,0 +1,13 @@
+{
+  "id": "cognitive_fitness_04",
+  "courseId": "cognitive_fitness",
+  "orderIndex": 4,
+  "estimatedMinutes": 12,
+  "youtubeVideos": [
+    {
+      "title": "Foods for Brain Health -Dr. Rhonda Patrick",
+      "url": "https://www.youtube.com/watch?v=E7W4OQfJWdw",
+      "duration": "18:35"
+    }
+  ]
+}

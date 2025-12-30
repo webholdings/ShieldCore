@@ -1,0 +1,13 @@
+{
+  "id": "emotional_intelligence_05",
+  "courseId": "emotional_intelligence",
+  "orderIndex": 5,
+  "estimatedMinutes": 12,
+  "youtubeVideos": [
+    {
+      "title": "Resolving Conflicts - William Ury",
+      "url": "https://www.youtube.com/watch?v=rkkASI8C8A4",
+      "duration": "14:55"
+    }
+  ]
+}

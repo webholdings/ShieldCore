@@ -1,0 +1,3202 @@
+[
+  {
+    "id": "iq_en_1",
+    "question": "What number comes next in the sequence: 2, 4, 8, 16, ?",
+    "questionType": "pattern",
+    "options": [
+      "24",
+      "32",
+      "20",
+      "28"
+    ],
+    "correctAnswer": "32",
+    "difficulty": 1,
+    "category": "Pattern Recognition",
+    "language": "en",
+    "createdAt": "2025-12-05T11:14:44.761Z"
+  },
+  {
+    "id": "iq_en_2",
+    "question": "Complete the pattern: A, C, E, G, ?",
+    "questionType": "pattern",
+    "options": [
+      "H",
+      "I",
+      "J",
+      "K"
+    ],
+    "correctAnswer": "I",
+    "difficulty": 1,
+    "category": "Pattern Recognition",
+    "language": "en",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_en_3",
+    "question": "What comes next: 1, 1, 2, 3, 5, 8, ?",
+    "questionType": "pattern",
+    "options": [
+      "11",
+      "13",
+      "15",
+      "17"
+    ],
+    "correctAnswer": "13",
+    "difficulty": 2,
+    "category": "Pattern Recognition",
+    "language": "en",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_en_4",
+    "question": "Which shape completes the pattern: Circle, Square, Triangle, Circle, Square, ?",
+    "questionType": "pattern",
+    "options": [
+      "Circle",
+      "Triangle",
+      "Square",
+      "Pentagon"
+    ],
+    "correctAnswer": "Triangle",
+    "difficulty": 1,
+    "category": "Pattern Recognition",
+    "language": "en",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_en_5",
+    "question": "Complete: 100, 95, 85, 70, ?",
+    "questionType": "pattern",
+    "options": [
+      "50",
+      "55",
+      "60",
+      "65"
+    ],
+    "correctAnswer": "50",
+    "difficulty": 2,
+    "category": "Pattern Recognition",
+    "language": "en",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_en_6",
+    "question": "What's next: Z, X, V, T, ?",
+    "questionType": "pattern",
+    "options": [
+      "S",
+      "R",
+      "Q",
+      "P"
+    ],
+    "correctAnswer": "R",
+    "difficulty": 3,
+    "category": "Pattern Recognition",
+    "language": "en",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_en_7",
+    "question": "Complete: 3, 6, 12, 24, ?",
+    "questionType": "pattern",
+    "options": [
+      "36",
+      "48",
+      "40",
+      "32"
+    ],
+    "correctAnswer": "48",
+    "difficulty": 2,
+    "category": "Pattern Recognition",
+    "language": "en",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_en_8",
+    "question": "What comes next: 1, 4, 9, 16, 25, ?",
+    "questionType": "pattern",
+    "options": [
+      "30",
+      "36",
+      "35",
+      "49"
+    ],
+    "correctAnswer": "36",
+    "difficulty": 2,
+    "category": "Pattern Recognition",
+    "language": "en",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_en_9",
+    "question": "Complete the series: 2, 6, 12, 20, 30, ?",
+    "questionType": "pattern",
+    "options": [
+      "40",
+      "42",
+      "38",
+      "44"
+    ],
+    "correctAnswer": "42",
+    "difficulty": 3,
+    "category": "Pattern Recognition",
+    "language": "en",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_en_10",
+    "question": "What's next: J, F, M, A, M, ?",
+    "questionType": "pattern",
+    "options": [
+      "J",
+      "S",
+      "A",
+      "N"
+    ],
+    "correctAnswer": "J",
+    "difficulty": 2,
+    "category": "Pattern Recognition",
+    "language": "en",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_en_11",
+    "question": "If all roses are flowers and some flowers fade quickly, which statement must be true?",
+    "questionType": "logic",
+    "options": [
+      "All roses fade quickly",
+      "Some roses may fade quickly",
+      "No roses fade quickly",
+      "All flowers are roses"
+    ],
+    "correctAnswer": "Some roses may fade quickly",
+    "difficulty": 2,
+    "category": "Logic & Reasoning",
+    "language": "en",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_en_12",
+    "question": "John is taller than Mary. Mary is taller than Sarah. Who is shortest?",
+    "questionType": "logic",
+    "options": [
+      "John",
+      "Mary",
+      "Sarah",
+      "Cannot determine"
+    ],
+    "correctAnswer": "Sarah",
+    "difficulty": 1,
+    "category": "Logic & Reasoning",
+    "language": "en",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_en_13",
+    "question": "If it's raining, the ground is wet. The ground is wet. What can we conclude?",
+    "questionType": "logic",
+    "options": [
+      "It is raining",
+      "It might be raining",
+      "It is not raining",
+      "None of the above"
+    ],
+    "correctAnswer": "It might be raining",
+    "difficulty": 3,
+    "category": "Logic & Reasoning",
+    "language": "en",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_en_14",
+    "question": "All birds have feathers. Some things with feathers can fly. Therefore:",
+    "questionType": "logic",
+    "options": [
+      "All birds can fly",
+      "Some birds can fly",
+      "No birds can fly",
+      "All flying things are birds"
+    ],
+    "correctAnswer": "Some birds can fly",
+    "difficulty": 2,
+    "category": "Logic & Reasoning",
+    "language": "en",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_en_15",
+    "question": "If A is west of B, and B is west of C, what is the relationship between A and C?",
+    "questionType": "logic",
+    "options": [
+      "A is west of C",
+      "A is east of C",
+      "A equals C",
+      "Cannot determine"
+    ],
+    "correctAnswer": "A is west of C",
+    "difficulty": 1,
+    "category": "Logic & Reasoning",
+    "language": "en",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_en_16",
+    "question": "No cats are dogs. All dogs are animals. Therefore:",
+    "questionType": "logic",
+    "options": [
+      "No cats are animals",
+      "All animals are dogs",
+      "Some animals are not cats",
+      "All cats are animals"
+    ],
+    "correctAnswer": "Some animals are not cats",
+    "difficulty": 3,
+    "category": "Logic & Reasoning",
+    "language": "en",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_en_17",
+    "question": "If today is Monday, what day was it 10 days ago?",
+    "questionType": "logic",
+    "options": [
+      "Monday",
+      "Friday",
+      "Saturday",
+      "Sunday"
+    ],
+    "correctAnswer": "Friday",
+    "difficulty": 2,
+    "category": "Logic & Reasoning",
+    "language": "en",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_en_18",
+    "question": "A is older than B. C is younger than B. Who is youngest?",
+    "questionType": "logic",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "Cannot determine"
+    ],
+    "correctAnswer": "C",
+    "difficulty": 1,
+    "category": "Logic & Reasoning",
+    "language": "en",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_en_19",
+    "question": "If some students are athletes and all athletes are healthy, what must be true?",
+    "questionType": "logic",
+    "options": [
+      "All students are healthy",
+      "Some students are healthy",
+      "No students are healthy",
+      "All healthy people are students"
+    ],
+    "correctAnswer": "Some students are healthy",
+    "difficulty": 2,
+    "category": "Logic & Reasoning",
+    "language": "en",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_en_20",
+    "question": "Red is darker than pink. Blue is darker than red. Which is lightest?",
+    "questionType": "logic",
+    "options": [
+      "Red",
+      "Pink",
+      "Blue",
+      "Cannot determine"
+    ],
+    "correctAnswer": "Pink",
+    "difficulty": 1,
+    "category": "Logic & Reasoning",
+    "language": "en",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_en_21",
+    "question": "What is 15% of 200?",
+    "questionType": "math",
+    "options": [
+      "20",
+      "25",
+      "30",
+      "35"
+    ],
+    "correctAnswer": "30",
+    "difficulty": 1,
+    "category": "Mathematical Skills",
+    "language": "en",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_en_22",
+    "question": "If x + 5 = 12, what is x?",
+    "questionType": "math",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correctAnswer": "7",
+    "difficulty": 1,
+    "category": "Mathematical Skills",
+    "language": "en",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_en_23",
+    "question": "A shirt costs $40 after a 20% discount. What was the original price?",
+    "questionType": "math",
+    "options": [
+      "$45",
+      "$48",
+      "$50",
+      "$55"
+    ],
+    "correctAnswer": "$50",
+    "difficulty": 2,
+    "category": "Mathematical Skills",
+    "language": "en",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_en_24",
+    "question": "What is the average of 10, 20, and 30?",
+    "questionType": "math",
+    "options": [
+      "15",
+      "20",
+      "25",
+      "30"
+    ],
+    "correctAnswer": "20",
+    "difficulty": 1,
+    "category": "Mathematical Skills",
+    "language": "en",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_en_25",
+    "question": "If 3x = 21, what is x?",
+    "questionType": "math",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correctAnswer": "7",
+    "difficulty": 1,
+    "category": "Mathematical Skills",
+    "language": "en",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_en_26",
+    "question": "What is 25% of 80?",
+    "questionType": "math",
+    "options": [
+      "15",
+      "20",
+      "25",
+      "30"
+    ],
+    "correctAnswer": "20",
+    "difficulty": 1,
+    "category": "Mathematical Skills",
+    "language": "en",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_en_27",
+    "question": "A rectangle has length 8 and width 5. What is its area?",
+    "questionType": "math",
+    "options": [
+      "30",
+      "35",
+      "40",
+      "45"
+    ],
+    "correctAnswer": "40",
+    "difficulty": 1,
+    "category": "Mathematical Skills",
+    "language": "en",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_en_28",
+    "question": "If y - 8 = 15, what is y?",
+    "questionType": "math",
+    "options": [
+      "20",
+      "21",
+      "22",
+      "23"
+    ],
+    "correctAnswer": "23",
+    "difficulty": 1,
+    "category": "Mathematical Skills",
+    "language": "en",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_en_29",
+    "question": "What is 1/4 of 100?",
+    "questionType": "math",
+    "options": [
+      "20",
+      "25",
+      "30",
+      "40"
+    ],
+    "correctAnswer": "25",
+    "difficulty": 1,
+    "category": "Mathematical Skills",
+    "language": "en",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_en_30",
+    "question": "A car travels 60 miles in 2 hours. What is its average speed?",
+    "questionType": "math",
+    "options": [
+      "25 mph",
+      "30 mph",
+      "35 mph",
+      "40 mph"
+    ],
+    "correctAnswer": "30 mph",
+    "difficulty": 2,
+    "category": "Mathematical Skills",
+    "language": "en",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_en_31",
+    "question": "Choose the word that is most opposite to DIFFICULT:",
+    "questionType": "verbal",
+    "options": [
+      "Hard",
+      "Simple",
+      "Complex",
+      "Challenging"
+    ],
+    "correctAnswer": "Simple",
+    "difficulty": 1,
+    "category": "Verbal Reasoning",
+    "language": "en",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_en_32",
+    "question": "Which word does not belong: Apple, Banana, Carrot, Orange",
+    "questionType": "verbal",
+    "options": [
+      "Apple",
+      "Banana",
+      "Carrot",
+      "Orange"
+    ],
+    "correctAnswer": "Carrot",
+    "difficulty": 1,
+    "category": "Verbal Reasoning",
+    "language": "en",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_en_33",
+    "question": "Choose the synonym for HAPPY:",
+    "questionType": "verbal",
+    "options": [
+      "Sad",
+      "Joyful",
+      "Angry",
+      "Tired"
+    ],
+    "correctAnswer": "Joyful",
+    "difficulty": 1,
+    "category": "Verbal Reasoning",
+    "language": "en",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_en_34",
+    "question": "Complete the analogy: Hot is to Cold as Day is to ?",
+    "questionType": "verbal",
+    "options": [
+      "Light",
+      "Night",
+      "Sun",
+      "Moon"
+    ],
+    "correctAnswer": "Night",
+    "difficulty": 1,
+    "category": "Verbal Reasoning",
+    "language": "en",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_en_35",
+    "question": "Which word is most similar to BRAVE:",
+    "questionType": "verbal",
+    "options": [
+      "Fearful",
+      "Courageous",
+      "Weak",
+      "Timid"
+    ],
+    "correctAnswer": "Courageous",
+    "difficulty": 1,
+    "category": "Verbal Reasoning",
+    "language": "en",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_en_36",
+    "question": "Complete: Cat is to Meow as Dog is to ?",
+    "questionType": "verbal",
+    "options": [
+      "Purr",
+      "Bark",
+      "Chirp",
+      "Roar"
+    ],
+    "correctAnswer": "Bark",
+    "difficulty": 1,
+    "category": "Verbal Reasoning",
+    "language": "en",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_en_37",
+    "question": "Choose the opposite of ANCIENT:",
+    "questionType": "verbal",
+    "options": [
+      "Old",
+      "Modern",
+      "Historic",
+      "Traditional"
+    ],
+    "correctAnswer": "Modern",
+    "difficulty": 1,
+    "category": "Verbal Reasoning",
+    "language": "en",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_en_38",
+    "question": "Which does not belong: Chair, Table, Desk, Apple",
+    "questionType": "verbal",
+    "options": [
+      "Chair",
+      "Table",
+      "Desk",
+      "Apple"
+    ],
+    "correctAnswer": "Apple",
+    "difficulty": 1,
+    "category": "Verbal Reasoning",
+    "language": "en",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_en_39",
+    "question": "Complete the analogy: Fish is to Water as Bird is to ?",
+    "questionType": "verbal",
+    "options": [
+      "Nest",
+      "Air",
+      "Tree",
+      "Sky"
+    ],
+    "correctAnswer": "Air",
+    "difficulty": 2,
+    "category": "Verbal Reasoning",
+    "language": "en",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_en_40",
+    "question": "Choose the synonym for DIFFICULT:",
+    "questionType": "verbal",
+    "options": [
+      "Easy",
+      "Hard",
+      "Simple",
+      "Clear"
+    ],
+    "correctAnswer": "Hard",
+    "difficulty": 1,
+    "category": "Verbal Reasoning",
+    "language": "en",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_en_41",
+    "question": "How many faces does a cube have?",
+    "questionType": "spatial",
+    "options": [
+      "4",
+      "6",
+      "8",
+      "12"
+    ],
+    "correctAnswer": "6",
+    "difficulty": 1,
+    "category": "Spatial Reasoning",
+    "language": "en",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_en_42",
+    "question": "If you rotate a square 90 degrees, what shape do you get?",
+    "questionType": "spatial",
+    "options": [
+      "Rectangle",
+      "Square",
+      "Triangle",
+      "Circle"
+    ],
+    "correctAnswer": "Square",
+    "difficulty": 1,
+    "category": "Spatial Reasoning",
+    "language": "en",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_en_43",
+    "question": "How many sides does a pentagon have?",
+    "questionType": "spatial",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "correctAnswer": "5",
+    "difficulty": 1,
+    "category": "Spatial Reasoning",
+    "language": "en",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_en_44",
+    "question": "Which direction is opposite to North?",
+    "questionType": "spatial",
+    "options": [
+      "East",
+      "West",
+      "South",
+      "Northeast"
+    ],
+    "correctAnswer": "South",
+    "difficulty": 1,
+    "category": "Spatial Reasoning",
+    "language": "en",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_en_45",
+    "question": "How many corners does a triangle have?",
+    "questionType": "spatial",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctAnswer": "3",
+    "difficulty": 1,
+    "category": "Spatial Reasoning",
+    "language": "en",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_en_46",
+    "question": "If you fold a square in half, what shapes can you make?",
+    "questionType": "spatial",
+    "options": [
+      "Circle",
+      "Rectangle",
+      "Triangle",
+      "Pentagon"
+    ],
+    "correctAnswer": "Rectangle",
+    "difficulty": 2,
+    "category": "Spatial Reasoning",
+    "language": "en",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_en_47",
+    "question": "How many edges does a cube have?",
+    "questionType": "spatial",
+    "options": [
+      "6",
+      "8",
+      "10",
+      "12"
+    ],
+    "correctAnswer": "12",
+    "difficulty": 2,
+    "category": "Spatial Reasoning",
+    "language": "en",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_en_48",
+    "question": "What 3D shape has only one face?",
+    "questionType": "spatial",
+    "options": [
+      "Cube",
+      "Sphere",
+      "Cone",
+      "Cylinder"
+    ],
+    "correctAnswer": "Sphere",
+    "difficulty": 2,
+    "category": "Spatial Reasoning",
+    "language": "en",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_en_49",
+    "question": "How many right angles are in a square?",
+    "questionType": "spatial",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctAnswer": "4",
+    "difficulty": 1,
+    "category": "Spatial Reasoning",
+    "language": "en",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_en_50",
+    "question": "If you look at a clock from behind, which direction do the hands move?",
+    "questionType": "spatial",
+    "options": [
+      "Clockwise",
+      "Counterclockwise",
+      "Up",
+      "Down"
+    ],
+    "correctAnswer": "Counterclockwise",
+    "difficulty": 3,
+    "category": "Spatial Reasoning",
+    "language": "en",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_de_51",
+    "question": "Welche Zahl kommt als nächstes in der Reihe: 2, 4, 8, 16, ?",
+    "questionType": "pattern",
+    "options": [
+      "24",
+      "32",
+      "20",
+      "28"
+    ],
+    "correctAnswer": "32",
+    "difficulty": 1,
+    "category": "Pattern Recognition",
+    "language": "de",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_de_52",
+    "question": "Vervollständige das Muster: A, C, E, G, ?",
+    "questionType": "pattern",
+    "options": [
+      "H",
+      "I",
+      "J",
+      "K"
+    ],
+    "correctAnswer": "I",
+    "difficulty": 1,
+    "category": "Pattern Recognition",
+    "language": "de",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_de_53",
+    "question": "Was kommt als nächstes: 1, 1, 2, 3, 5, 8, ?",
+    "questionType": "pattern",
+    "options": [
+      "11",
+      "13",
+      "15",
+      "17"
+    ],
+    "correctAnswer": "13",
+    "difficulty": 2,
+    "category": "Pattern Recognition",
+    "language": "de",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_de_54",
+    "question": "Welche Form vervollständigt das Muster: Kreis, Quadrat, Dreieck, Kreis, Quadrat, ?",
+    "questionType": "pattern",
+    "options": [
+      "Kreis",
+      "Dreieck",
+      "Quadrat",
+      "Fünfeck"
+    ],
+    "correctAnswer": "Dreieck",
+    "difficulty": 1,
+    "category": "Pattern Recognition",
+    "language": "de",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_de_55",
+    "question": "Vervollständige: 100, 95, 85, 70, ?",
+    "questionType": "pattern",
+    "options": [
+      "50",
+      "55",
+      "60",
+      "65"
+    ],
+    "correctAnswer": "50",
+    "difficulty": 2,
+    "category": "Pattern Recognition",
+    "language": "de",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_de_56",
+    "question": "Was kommt als nächstes: Z, X, V, T, ?",
+    "questionType": "pattern",
+    "options": [
+      "S",
+      "R",
+      "Q",
+      "P"
+    ],
+    "correctAnswer": "R",
+    "difficulty": 3,
+    "category": "Pattern Recognition",
+    "language": "de",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_de_57",
+    "question": "Vervollständige: 3, 6, 12, 24, ?",
+    "questionType": "pattern",
+    "options": [
+      "36",
+      "48",
+      "40",
+      "32"
+    ],
+    "correctAnswer": "48",
+    "difficulty": 2,
+    "category": "Pattern Recognition",
+    "language": "de",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_de_58",
+    "question": "Was kommt als nächstes: 1, 4, 9, 16, 25, ?",
+    "questionType": "pattern",
+    "options": [
+      "30",
+      "36",
+      "35",
+      "49"
+    ],
+    "correctAnswer": "36",
+    "difficulty": 2,
+    "category": "Pattern Recognition",
+    "language": "de",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_de_59",
+    "question": "Vervollständige die Reihe: 2, 6, 12, 20, 30, ?",
+    "questionType": "pattern",
+    "options": [
+      "40",
+      "42",
+      "38",
+      "44"
+    ],
+    "correctAnswer": "42",
+    "difficulty": 3,
+    "category": "Pattern Recognition",
+    "language": "de",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_de_60",
+    "question": "Was kommt als nächstes: J, F, M, A, M, ?",
+    "questionType": "pattern",
+    "options": [
+      "J",
+      "S",
+      "A",
+      "N"
+    ],
+    "correctAnswer": "J",
+    "difficulty": 2,
+    "category": "Pattern Recognition",
+    "language": "de",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_de_61",
+    "question": "Wenn alle Rosen Blumen sind und manche Blumen schnell verwelken, welche Aussage muss wahr sein?",
+    "questionType": "logic",
+    "options": [
+      "Alle Rosen verwelken schnell",
+      "Manche Rosen verwelken möglicherweise schnell",
+      "Keine Rosen verwelken schnell",
+      "Alle Blumen sind Rosen"
+    ],
+    "correctAnswer": "Manche Rosen verwelken möglicherweise schnell",
+    "difficulty": 2,
+    "category": "Logic & Reasoning",
+    "language": "de",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_de_62",
+    "question": "Johannes ist größer als Maria. Maria ist größer als Sarah. Wer ist am kleinsten?",
+    "questionType": "logic",
+    "options": [
+      "Johannes",
+      "Maria",
+      "Sarah",
+      "Kann nicht bestimmt werden"
+    ],
+    "correctAnswer": "Sarah",
+    "difficulty": 1,
+    "category": "Logic & Reasoning",
+    "language": "de",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_de_63",
+    "question": "Wenn es regnet, ist der Boden nass. Der Boden ist nass. Was können wir schlussfolgern?",
+    "questionType": "logic",
+    "options": [
+      "Es regnet",
+      "Es könnte regnen",
+      "Es regnet nicht",
+      "Keine der oben genannten"
+    ],
+    "correctAnswer": "Es könnte regnen",
+    "difficulty": 3,
+    "category": "Logic & Reasoning",
+    "language": "de",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_de_64",
+    "question": "Alle Vögel haben Federn. Manche Dinge mit Federn können fliegen. Daher:",
+    "questionType": "logic",
+    "options": [
+      "Alle Vögel können fliegen",
+      "Manche Vögel können fliegen",
+      "Keine Vögel können fliegen",
+      "Alle fliegenden Dinge sind Vögel"
+    ],
+    "correctAnswer": "Manche Vögel können fliegen",
+    "difficulty": 2,
+    "category": "Logic & Reasoning",
+    "language": "de",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_de_65",
+    "question": "Wenn A westlich von B liegt und B westlich von C, welche Beziehung besteht zwischen A und C?",
+    "questionType": "logic",
+    "options": [
+      "A liegt westlich von C",
+      "A liegt östlich von C",
+      "A gleich C",
+      "Kann nicht bestimmt werden"
+    ],
+    "correctAnswer": "A liegt westlich von C",
+    "difficulty": 1,
+    "category": "Logic & Reasoning",
+    "language": "de",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_de_66",
+    "question": "Keine Katzen sind Hunde. Alle Hunde sind Tiere. Daher:",
+    "questionType": "logic",
+    "options": [
+      "Keine Katzen sind Tiere",
+      "Alle Tiere sind Hunde",
+      "Manche Tiere sind keine Katzen",
+      "Alle Katzen sind Tiere"
+    ],
+    "correctAnswer": "Manche Tiere sind keine Katzen",
+    "difficulty": 3,
+    "category": "Logic & Reasoning",
+    "language": "de",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_de_67",
+    "question": "Wenn heute Montag ist, welcher Tag war vor 10 Tagen?",
+    "questionType": "logic",
+    "options": [
+      "Montag",
+      "Freitag",
+      "Samstag",
+      "Sonntag"
+    ],
+    "correctAnswer": "Freitag",
+    "difficulty": 2,
+    "category": "Logic & Reasoning",
+    "language": "de",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_de_68",
+    "question": "A ist älter als B. C ist jünger als B. Wer ist am jüngsten?",
+    "questionType": "logic",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "Kann nicht bestimmt werden"
+    ],
+    "correctAnswer": "C",
+    "difficulty": 1,
+    "category": "Logic & Reasoning",
+    "language": "de",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_de_69",
+    "question": "Wenn manche Studenten Athleten sind und alle Athleten gesund sind, was muss wahr sein?",
+    "questionType": "logic",
+    "options": [
+      "Alle Studenten sind gesund",
+      "Manche Studenten sind gesund",
+      "Keine Studenten sind gesund",
+      "Alle gesunden Menschen sind Studenten"
+    ],
+    "correctAnswer": "Manche Studenten sind gesund",
+    "difficulty": 2,
+    "category": "Logic & Reasoning",
+    "language": "de",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_de_70",
+    "question": "Rot ist dunkler als Rosa. Blau ist dunkler als Rot. Was ist am hellsten?",
+    "questionType": "logic",
+    "options": [
+      "Rot",
+      "Rosa",
+      "Blau",
+      "Kann nicht bestimmt werden"
+    ],
+    "correctAnswer": "Rosa",
+    "difficulty": 1,
+    "category": "Logic & Reasoning",
+    "language": "de",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_de_71",
+    "question": "Was sind 15% von 200?",
+    "questionType": "math",
+    "options": [
+      "20",
+      "25",
+      "30",
+      "35"
+    ],
+    "correctAnswer": "30",
+    "difficulty": 1,
+    "category": "Mathematical Skills",
+    "language": "de",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_de_72",
+    "question": "Wenn x + 5 = 12, was ist x?",
+    "questionType": "math",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correctAnswer": "7",
+    "difficulty": 1,
+    "category": "Mathematical Skills",
+    "language": "de",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_de_73",
+    "question": "Ein Hemd kostet 40€ nach 20% Rabatt. Was war der ursprüngliche Preis?",
+    "questionType": "math",
+    "options": [
+      "45€",
+      "48€",
+      "50€",
+      "55€"
+    ],
+    "correctAnswer": "50€",
+    "difficulty": 2,
+    "category": "Mathematical Skills",
+    "language": "de",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_de_74",
+    "question": "Was ist der Durchschnitt von 10, 20 und 30?",
+    "questionType": "math",
+    "options": [
+      "15",
+      "20",
+      "25",
+      "30"
+    ],
+    "correctAnswer": "20",
+    "difficulty": 1,
+    "category": "Mathematical Skills",
+    "language": "de",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_de_75",
+    "question": "Wenn 3x = 21, was ist x?",
+    "questionType": "math",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correctAnswer": "7",
+    "difficulty": 1,
+    "category": "Mathematical Skills",
+    "language": "de",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_de_76",
+    "question": "Was sind 25% von 80?",
+    "questionType": "math",
+    "options": [
+      "15",
+      "20",
+      "25",
+      "30"
+    ],
+    "correctAnswer": "20",
+    "difficulty": 1,
+    "category": "Mathematical Skills",
+    "language": "de",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_de_77",
+    "question": "Ein Rechteck hat die Länge 8 und die Breite 5. Was ist seine Fläche?",
+    "questionType": "math",
+    "options": [
+      "30",
+      "35",
+      "40",
+      "45"
+    ],
+    "correctAnswer": "40",
+    "difficulty": 1,
+    "category": "Mathematical Skills",
+    "language": "de",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_de_78",
+    "question": "Wenn y - 8 = 15, was ist y?",
+    "questionType": "math",
+    "options": [
+      "20",
+      "21",
+      "22",
+      "23"
+    ],
+    "correctAnswer": "23",
+    "difficulty": 1,
+    "category": "Mathematical Skills",
+    "language": "de",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_de_79",
+    "question": "Was ist 1/4 von 100?",
+    "questionType": "math",
+    "options": [
+      "20",
+      "25",
+      "30",
+      "40"
+    ],
+    "correctAnswer": "25",
+    "difficulty": 1,
+    "category": "Mathematical Skills",
+    "language": "de",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_de_80",
+    "question": "Ein Auto fährt 60 Meilen in 2 Stunden. Was ist seine durchschnittliche Geschwindigkeit?",
+    "questionType": "math",
+    "options": [
+      "25 mph",
+      "30 mph",
+      "35 mph",
+      "40 mph"
+    ],
+    "correctAnswer": "30 mph",
+    "difficulty": 2,
+    "category": "Mathematical Skills",
+    "language": "de",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_de_81",
+    "question": "Wähle das Wort, das am meisten das Gegenteil von SCHWIERIG ist:",
+    "questionType": "verbal",
+    "options": [
+      "Hart",
+      "Einfach",
+      "Komplex",
+      "Herausfordernd"
+    ],
+    "correctAnswer": "Einfach",
+    "difficulty": 1,
+    "category": "Verbal Reasoning",
+    "language": "de",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_de_82",
+    "question": "Welches Wort gehört nicht dazu: Apfel, Banane, Karotte, Orange",
+    "questionType": "verbal",
+    "options": [
+      "Apfel",
+      "Banane",
+      "Karotte",
+      "Orange"
+    ],
+    "correctAnswer": "Karotte",
+    "difficulty": 1,
+    "category": "Verbal Reasoning",
+    "language": "de",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_de_83",
+    "question": "Wähle das Synonym für GLÜCKLICH:",
+    "questionType": "verbal",
+    "options": [
+      "Traurig",
+      "Freudig",
+      "Wütend",
+      "Müde"
+    ],
+    "correctAnswer": "Freudig",
+    "difficulty": 1,
+    "category": "Verbal Reasoning",
+    "language": "de",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_de_84",
+    "question": "Vervollständige die Analogie: Heiß verhält sich zu Kalt wie Tag zu ?",
+    "questionType": "verbal",
+    "options": [
+      "Licht",
+      "Nacht",
+      "Sonne",
+      "Mond"
+    ],
+    "correctAnswer": "Nacht",
+    "difficulty": 1,
+    "category": "Verbal Reasoning",
+    "language": "de",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_de_85",
+    "question": "Welches Wort ist am ähnlichsten zu MUTIG:",
+    "questionType": "verbal",
+    "options": [
+      "Ängstlich",
+      "Tapfer",
+      "Schwach",
+      "Schüchtern"
+    ],
+    "correctAnswer": "Tapfer",
+    "difficulty": 1,
+    "category": "Verbal Reasoning",
+    "language": "de",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_de_86",
+    "question": "Vervollständige: Katze verhält sich zu Miau wie Hund zu ?",
+    "questionType": "verbal",
+    "options": [
+      "Schnurren",
+      "Bellen",
+      "Zwitschern",
+      "Brüllen"
+    ],
+    "correctAnswer": "Bellen",
+    "difficulty": 1,
+    "category": "Verbal Reasoning",
+    "language": "de",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_de_87",
+    "question": "Wähle das Gegenteil von ANTIK:",
+    "questionType": "verbal",
+    "options": [
+      "Alt",
+      "Modern",
+      "Historisch",
+      "Traditionell"
+    ],
+    "correctAnswer": "Modern",
+    "difficulty": 1,
+    "category": "Verbal Reasoning",
+    "language": "de",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_de_88",
+    "question": "Was gehört nicht dazu: Stuhl, Tisch, Schreibtisch, Apfel",
+    "questionType": "verbal",
+    "options": [
+      "Stuhl",
+      "Tisch",
+      "Schreibtisch",
+      "Apfel"
+    ],
+    "correctAnswer": "Apfel",
+    "difficulty": 1,
+    "category": "Verbal Reasoning",
+    "language": "de",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_de_89",
+    "question": "Vervollständige die Analogie: Fisch verhält sich zu Wasser wie Vogel zu ?",
+    "questionType": "verbal",
+    "options": [
+      "Nest",
+      "Luft",
+      "Baum",
+      "Himmel"
+    ],
+    "correctAnswer": "Luft",
+    "difficulty": 2,
+    "category": "Verbal Reasoning",
+    "language": "de",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_de_90",
+    "question": "Wähle das Synonym für SCHWIERIG:",
+    "questionType": "verbal",
+    "options": [
+      "Leicht",
+      "Hart",
+      "Einfach",
+      "Klar"
+    ],
+    "correctAnswer": "Hart",
+    "difficulty": 1,
+    "category": "Verbal Reasoning",
+    "language": "de",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_de_91",
+    "question": "Wie viele Flächen hat ein Würfel?",
+    "questionType": "spatial",
+    "options": [
+      "4",
+      "6",
+      "8",
+      "12"
+    ],
+    "correctAnswer": "6",
+    "difficulty": 1,
+    "category": "Spatial Reasoning",
+    "language": "de",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_de_92",
+    "question": "Wenn du ein Quadrat um 90 Grad drehst, welche Form erhältst du?",
+    "questionType": "spatial",
+    "options": [
+      "Rechteck",
+      "Quadrat",
+      "Dreieck",
+      "Kreis"
+    ],
+    "correctAnswer": "Quadrat",
+    "difficulty": 1,
+    "category": "Spatial Reasoning",
+    "language": "de",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_de_93",
+    "question": "Wie viele Seiten hat ein Fünfeck?",
+    "questionType": "spatial",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "correctAnswer": "5",
+    "difficulty": 1,
+    "category": "Spatial Reasoning",
+    "language": "de",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_de_94",
+    "question": "Welche Richtung ist das Gegenteil von Norden?",
+    "questionType": "spatial",
+    "options": [
+      "Osten",
+      "Westen",
+      "Süden",
+      "Nordosten"
+    ],
+    "correctAnswer": "Süden",
+    "difficulty": 1,
+    "category": "Spatial Reasoning",
+    "language": "de",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_de_95",
+    "question": "Wie viele Ecken hat ein Dreieck?",
+    "questionType": "spatial",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctAnswer": "3",
+    "difficulty": 1,
+    "category": "Spatial Reasoning",
+    "language": "de",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_de_96",
+    "question": "Wenn du ein Quadrat in der Mitte faltest, welche Formen kannst du machen?",
+    "questionType": "spatial",
+    "options": [
+      "Kreis",
+      "Rechteck",
+      "Dreieck",
+      "Fünfeck"
+    ],
+    "correctAnswer": "Rechteck",
+    "difficulty": 2,
+    "category": "Spatial Reasoning",
+    "language": "de",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_de_97",
+    "question": "Wie viele Kanten hat ein Würfel?",
+    "questionType": "spatial",
+    "options": [
+      "6",
+      "8",
+      "10",
+      "12"
+    ],
+    "correctAnswer": "12",
+    "difficulty": 2,
+    "category": "Spatial Reasoning",
+    "language": "de",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_de_98",
+    "question": "Welche 3D-Form hat nur eine Fläche?",
+    "questionType": "spatial",
+    "options": [
+      "Würfel",
+      "Kugel",
+      "Kegel",
+      "Zylinder"
+    ],
+    "correctAnswer": "Kugel",
+    "difficulty": 2,
+    "category": "Spatial Reasoning",
+    "language": "de",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_de_99",
+    "question": "Wie viele rechte Winkel hat ein Quadrat?",
+    "questionType": "spatial",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctAnswer": "4",
+    "difficulty": 1,
+    "category": "Spatial Reasoning",
+    "language": "de",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_de_100",
+    "question": "Wenn du eine Uhr von hinten betrachtest, in welche Richtung bewegen sich die Zeiger?",
+    "questionType": "spatial",
+    "options": [
+      "Im Uhrzeigersinn",
+      "Gegen den Uhrzeigersinn",
+      "Nach oben",
+      "Nach unten"
+    ],
+    "correctAnswer": "Gegen den Uhrzeigersinn",
+    "difficulty": 3,
+    "category": "Spatial Reasoning",
+    "language": "de",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_fr_101",
+    "question": "Quel nombre vient ensuite dans la séquence : 2, 4, 8, 16, ?",
+    "questionType": "pattern",
+    "options": [
+      "24",
+      "32",
+      "20",
+      "28"
+    ],
+    "correctAnswer": "32",
+    "difficulty": 1,
+    "category": "Pattern Recognition",
+    "language": "fr",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_fr_102",
+    "question": "Complétez le motif : A, C, E, G, ?",
+    "questionType": "pattern",
+    "options": [
+      "H",
+      "I",
+      "J",
+      "K"
+    ],
+    "correctAnswer": "I",
+    "difficulty": 1,
+    "category": "Pattern Recognition",
+    "language": "fr",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_fr_103",
+    "question": "Qu'est-ce qui vient ensuite : 1, 1, 2, 3, 5, 8, ?",
+    "questionType": "pattern",
+    "options": [
+      "11",
+      "13",
+      "15",
+      "17"
+    ],
+    "correctAnswer": "13",
+    "difficulty": 2,
+    "category": "Pattern Recognition",
+    "language": "fr",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_fr_104",
+    "question": "Quelle forme complète le motif : Cercle, Carré, Triangle, Cercle, Carré, ?",
+    "questionType": "pattern",
+    "options": [
+      "Cercle",
+      "Triangle",
+      "Carré",
+      "Pentagone"
+    ],
+    "correctAnswer": "Triangle",
+    "difficulty": 1,
+    "category": "Pattern Recognition",
+    "language": "fr",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_fr_105",
+    "question": "Complétez : 100, 95, 85, 70, ?",
+    "questionType": "pattern",
+    "options": [
+      "50",
+      "55",
+      "60",
+      "65"
+    ],
+    "correctAnswer": "50",
+    "difficulty": 2,
+    "category": "Pattern Recognition",
+    "language": "fr",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_fr_106",
+    "question": "Qu'est-ce qui vient ensuite : Z, X, V, T, ?",
+    "questionType": "pattern",
+    "options": [
+      "S",
+      "R",
+      "Q",
+      "P"
+    ],
+    "correctAnswer": "R",
+    "difficulty": 3,
+    "category": "Pattern Recognition",
+    "language": "fr",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_fr_107",
+    "question": "Complétez : 3, 6, 12, 24, ?",
+    "questionType": "pattern",
+    "options": [
+      "36",
+      "48",
+      "40",
+      "32"
+    ],
+    "correctAnswer": "48",
+    "difficulty": 2,
+    "category": "Pattern Recognition",
+    "language": "fr",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_fr_108",
+    "question": "Qu'est-ce qui vient ensuite : 1, 4, 9, 16, 25, ?",
+    "questionType": "pattern",
+    "options": [
+      "30",
+      "36",
+      "35",
+      "49"
+    ],
+    "correctAnswer": "36",
+    "difficulty": 2,
+    "category": "Pattern Recognition",
+    "language": "fr",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_fr_109",
+    "question": "Complétez la série : 2, 6, 12, 20, 30, ?",
+    "questionType": "pattern",
+    "options": [
+      "40",
+      "42",
+      "38",
+      "44"
+    ],
+    "correctAnswer": "42",
+    "difficulty": 3,
+    "category": "Pattern Recognition",
+    "language": "fr",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_fr_110",
+    "question": "Qu'est-ce qui vient ensuite : J, F, M, A, M, ?",
+    "questionType": "pattern",
+    "options": [
+      "J",
+      "S",
+      "A",
+      "N"
+    ],
+    "correctAnswer": "J",
+    "difficulty": 2,
+    "category": "Pattern Recognition",
+    "language": "fr",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_fr_111",
+    "question": "Si toutes les roses sont des fleurs et certaines fleurs fanent rapidement, quelle affirmation doit être vraie ?",
+    "questionType": "logic",
+    "options": [
+      "Toutes les roses fanent rapidement",
+      "Certaines roses peuvent faner rapidement",
+      "Aucune rose ne fane rapidement",
+      "Toutes les fleurs sont des roses"
+    ],
+    "correctAnswer": "Certaines roses peuvent faner rapidement",
+    "difficulty": 2,
+    "category": "Logic & Reasoning",
+    "language": "fr",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_fr_112",
+    "question": "Jean est plus grand que Marie. Marie est plus grande que Sarah. Qui est la plus petite ?",
+    "questionType": "logic",
+    "options": [
+      "Jean",
+      "Marie",
+      "Sarah",
+      "Impossible à déterminer"
+    ],
+    "correctAnswer": "Sarah",
+    "difficulty": 1,
+    "category": "Logic & Reasoning",
+    "language": "fr",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_fr_113",
+    "question": "S'il pleut, le sol est mouillé. Le sol est mouillé. Que pouvons-nous conclure ?",
+    "questionType": "logic",
+    "options": [
+      "Il pleut",
+      "Il pourrait pleuvoir",
+      "Il ne pleut pas",
+      "Aucune des réponses ci-dessus"
+    ],
+    "correctAnswer": "Il pourrait pleuvoir",
+    "difficulty": 3,
+    "category": "Logic & Reasoning",
+    "language": "fr",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_fr_114",
+    "question": "Tous les oiseaux ont des plumes. Certaines choses avec des plumes peuvent voler. Par conséquent :",
+    "questionType": "logic",
+    "options": [
+      "Tous les oiseaux peuvent voler",
+      "Certains oiseaux peuvent voler",
+      "Aucun oiseau ne peut voler",
+      "Toutes les choses qui volent sont des oiseaux"
+    ],
+    "correctAnswer": "Certains oiseaux peuvent voler",
+    "difficulty": 2,
+    "category": "Logic & Reasoning",
+    "language": "fr",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_fr_115",
+    "question": "Si A est à l'ouest de B, et B est à l'ouest de C, quelle est la relation entre A et C ?",
+    "questionType": "logic",
+    "options": [
+      "A est à l'ouest de C",
+      "A est à l'est de C",
+      "A égale C",
+      "Impossible à déterminer"
+    ],
+    "correctAnswer": "A est à l'ouest de C",
+    "difficulty": 1,
+    "category": "Logic & Reasoning",
+    "language": "fr",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_fr_116",
+    "question": "Aucun chat n'est un chien. Tous les chiens sont des animaux. Par conséquent :",
+    "questionType": "logic",
+    "options": [
+      "Aucun chat n'est un animal",
+      "Tous les animaux sont des chiens",
+      "Certains animaux ne sont pas des chats",
+      "Tous les chats sont des animaux"
+    ],
+    "correctAnswer": "Certains animaux ne sont pas des chats",
+    "difficulty": 3,
+    "category": "Logic & Reasoning",
+    "language": "fr",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_fr_117",
+    "question": "Si aujourd'hui est lundi, quel jour était-il il y a 10 jours ?",
+    "questionType": "logic",
+    "options": [
+      "Lundi",
+      "Vendredi",
+      "Samedi",
+      "Dimanche"
+    ],
+    "correctAnswer": "Vendredi",
+    "difficulty": 2,
+    "category": "Logic & Reasoning",
+    "language": "fr",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_fr_118",
+    "question": "A est plus âgé que B. C est plus jeune que B. Qui est le plus jeune ?",
+    "questionType": "logic",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "Impossible à déterminer"
+    ],
+    "correctAnswer": "C",
+    "difficulty": 1,
+    "category": "Logic & Reasoning",
+    "language": "fr",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_fr_119",
+    "question": "Si certains étudiants sont des athlètes et tous les athlètes sont en bonne santé, qu'est-ce qui doit être vrai ?",
+    "questionType": "logic",
+    "options": [
+      "Tous les étudiants sont en bonne santé",
+      "Certains étudiants sont en bonne santé",
+      "Aucun étudiant n'est en bonne santé",
+      "Toutes les personnes en bonne santé sont des étudiants"
+    ],
+    "correctAnswer": "Certains étudiants sont en bonne santé",
+    "difficulty": 2,
+    "category": "Logic & Reasoning",
+    "language": "fr",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_fr_120",
+    "question": "Le rouge est plus foncé que le rose. Le bleu est plus foncé que le rouge. Lequel est le plus clair ?",
+    "questionType": "logic",
+    "options": [
+      "Rouge",
+      "Rose",
+      "Bleu",
+      "Impossible à déterminer"
+    ],
+    "correctAnswer": "Rose",
+    "difficulty": 1,
+    "category": "Logic & Reasoning",
+    "language": "fr",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_fr_121",
+    "question": "Combien font 15% de 200 ?",
+    "questionType": "math",
+    "options": [
+      "20",
+      "25",
+      "30",
+      "35"
+    ],
+    "correctAnswer": "30",
+    "difficulty": 1,
+    "category": "Mathematical Skills",
+    "language": "fr",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_fr_122",
+    "question": "Si x + 5 = 12, quelle est la valeur de x ?",
+    "questionType": "math",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correctAnswer": "7",
+    "difficulty": 1,
+    "category": "Mathematical Skills",
+    "language": "fr",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_fr_123",
+    "question": "Une chemise coûte 40€ après une réduction de 20%. Quel était le prix d'origine ?",
+    "questionType": "math",
+    "options": [
+      "45€",
+      "48€",
+      "50€",
+      "55€"
+    ],
+    "correctAnswer": "50€",
+    "difficulty": 2,
+    "category": "Mathematical Skills",
+    "language": "fr",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_fr_124",
+    "question": "Quelle est la moyenne de 10, 20 et 30 ?",
+    "questionType": "math",
+    "options": [
+      "15",
+      "20",
+      "25",
+      "30"
+    ],
+    "correctAnswer": "20",
+    "difficulty": 1,
+    "category": "Mathematical Skills",
+    "language": "fr",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_fr_125",
+    "question": "Si 3x = 21, quelle est la valeur de x ?",
+    "questionType": "math",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correctAnswer": "7",
+    "difficulty": 1,
+    "category": "Mathematical Skills",
+    "language": "fr",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_fr_126",
+    "question": "Combien font 25% de 80 ?",
+    "questionType": "math",
+    "options": [
+      "15",
+      "20",
+      "25",
+      "30"
+    ],
+    "correctAnswer": "20",
+    "difficulty": 1,
+    "category": "Mathematical Skills",
+    "language": "fr",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_fr_127",
+    "question": "Un rectangle a une longueur de 8 et une largeur de 5. Quelle est son aire ?",
+    "questionType": "math",
+    "options": [
+      "30",
+      "35",
+      "40",
+      "45"
+    ],
+    "correctAnswer": "40",
+    "difficulty": 1,
+    "category": "Mathematical Skills",
+    "language": "fr",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_fr_128",
+    "question": "Si y - 8 = 15, quelle est la valeur de y ?",
+    "questionType": "math",
+    "options": [
+      "20",
+      "21",
+      "22",
+      "23"
+    ],
+    "correctAnswer": "23",
+    "difficulty": 1,
+    "category": "Mathematical Skills",
+    "language": "fr",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_fr_129",
+    "question": "Combien font 1/4 de 100 ?",
+    "questionType": "math",
+    "options": [
+      "20",
+      "25",
+      "30",
+      "40"
+    ],
+    "correctAnswer": "25",
+    "difficulty": 1,
+    "category": "Mathematical Skills",
+    "language": "fr",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_fr_130",
+    "question": "Une voiture parcourt 60 miles en 2 heures. Quelle est sa vitesse moyenne ?",
+    "questionType": "math",
+    "options": [
+      "25 mph",
+      "30 mph",
+      "35 mph",
+      "40 mph"
+    ],
+    "correctAnswer": "30 mph",
+    "difficulty": 2,
+    "category": "Mathematical Skills",
+    "language": "fr",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_fr_131",
+    "question": "Choisissez le mot qui est le plus opposé à DIFFICILE :",
+    "questionType": "verbal",
+    "options": [
+      "Dur",
+      "Simple",
+      "Complexe",
+      "Difficile"
+    ],
+    "correctAnswer": "Simple",
+    "difficulty": 1,
+    "category": "Verbal Reasoning",
+    "language": "fr",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_fr_132",
+    "question": "Quel mot ne fait pas partie du groupe : Pomme, Banane, Carotte, Orange",
+    "questionType": "verbal",
+    "options": [
+      "Pomme",
+      "Banane",
+      "Carotte",
+      "Orange"
+    ],
+    "correctAnswer": "Carotte",
+    "difficulty": 1,
+    "category": "Verbal Reasoning",
+    "language": "fr",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_fr_133",
+    "question": "Choisissez le synonyme de HEUREUX :",
+    "questionType": "verbal",
+    "options": [
+      "Triste",
+      "Joyeux",
+      "En colère",
+      "Fatigué"
+    ],
+    "correctAnswer": "Joyeux",
+    "difficulty": 1,
+    "category": "Verbal Reasoning",
+    "language": "fr",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_fr_134",
+    "question": "Complétez l'analogie : Chaud est à Froid comme Jour est à ?",
+    "questionType": "verbal",
+    "options": [
+      "Lumière",
+      "Nuit",
+      "Soleil",
+      "Lune"
+    ],
+    "correctAnswer": "Nuit",
+    "difficulty": 1,
+    "category": "Verbal Reasoning",
+    "language": "fr",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_fr_135",
+    "question": "Quel mot est le plus similaire à COURAGEUX :",
+    "questionType": "verbal",
+    "options": [
+      "Peureux",
+      "Brave",
+      "Faible",
+      "Timide"
+    ],
+    "correctAnswer": "Brave",
+    "difficulty": 1,
+    "category": "Verbal Reasoning",
+    "language": "fr",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_fr_136",
+    "question": "Complétez : Chat est à Miauler comme Chien est à ?",
+    "questionType": "verbal",
+    "options": [
+      "Ronronner",
+      "Aboyer",
+      "Gazouiller",
+      "Rugir"
+    ],
+    "correctAnswer": "Aboyer",
+    "difficulty": 1,
+    "category": "Verbal Reasoning",
+    "language": "fr",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_fr_137",
+    "question": "Choisissez l'opposé de ANCIEN :",
+    "questionType": "verbal",
+    "options": [
+      "Vieux",
+      "Moderne",
+      "Historique",
+      "Traditionnel"
+    ],
+    "correctAnswer": "Moderne",
+    "difficulty": 1,
+    "category": "Verbal Reasoning",
+    "language": "fr",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_fr_138",
+    "question": "Qu'est-ce qui ne fait pas partie du groupe : Chaise, Table, Bureau, Pomme",
+    "questionType": "verbal",
+    "options": [
+      "Chaise",
+      "Table",
+      "Bureau",
+      "Pomme"
+    ],
+    "correctAnswer": "Pomme",
+    "difficulty": 1,
+    "category": "Verbal Reasoning",
+    "language": "fr",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_fr_139",
+    "question": "Complétez l'analogie : Poisson est à Eau comme Oiseau est à ?",
+    "questionType": "verbal",
+    "options": [
+      "Nid",
+      "Air",
+      "Arbre",
+      "Ciel"
+    ],
+    "correctAnswer": "Air",
+    "difficulty": 2,
+    "category": "Verbal Reasoning",
+    "language": "fr",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_fr_140",
+    "question": "Choisissez le synonyme de DIFFICILE :",
+    "questionType": "verbal",
+    "options": [
+      "Facile",
+      "Dur",
+      "Simple",
+      "Clair"
+    ],
+    "correctAnswer": "Dur",
+    "difficulty": 1,
+    "category": "Verbal Reasoning",
+    "language": "fr",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_fr_141",
+    "question": "Combien de faces a un cube ?",
+    "questionType": "spatial",
+    "options": [
+      "4",
+      "6",
+      "8",
+      "12"
+    ],
+    "correctAnswer": "6",
+    "difficulty": 1,
+    "category": "Spatial Reasoning",
+    "language": "fr",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_fr_142",
+    "question": "Si vous faites pivoter un carré de 90 degrés, quelle forme obtenez-vous ?",
+    "questionType": "spatial",
+    "options": [
+      "Rectangle",
+      "Carré",
+      "Triangle",
+      "Cercle"
+    ],
+    "correctAnswer": "Carré",
+    "difficulty": 1,
+    "category": "Spatial Reasoning",
+    "language": "fr",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_fr_143",
+    "question": "Combien de côtés a un pentagone ?",
+    "questionType": "spatial",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "correctAnswer": "5",
+    "difficulty": 1,
+    "category": "Spatial Reasoning",
+    "language": "fr",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_fr_144",
+    "question": "Quelle direction est opposée au Nord ?",
+    "questionType": "spatial",
+    "options": [
+      "Est",
+      "Ouest",
+      "Sud",
+      "Nord-Est"
+    ],
+    "correctAnswer": "Sud",
+    "difficulty": 1,
+    "category": "Spatial Reasoning",
+    "language": "fr",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_fr_145",
+    "question": "Combien de coins a un triangle ?",
+    "questionType": "spatial",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctAnswer": "3",
+    "difficulty": 1,
+    "category": "Spatial Reasoning",
+    "language": "fr",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_fr_146",
+    "question": "Si vous pliez un carré en deux, quelles formes pouvez-vous créer ?",
+    "questionType": "spatial",
+    "options": [
+      "Cercle",
+      "Rectangle",
+      "Triangle",
+      "Pentagone"
+    ],
+    "correctAnswer": "Rectangle",
+    "difficulty": 2,
+    "category": "Spatial Reasoning",
+    "language": "fr",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_fr_147",
+    "question": "Combien d'arêtes a un cube ?",
+    "questionType": "spatial",
+    "options": [
+      "6",
+      "8",
+      "10",
+      "12"
+    ],
+    "correctAnswer": "12",
+    "difficulty": 2,
+    "category": "Spatial Reasoning",
+    "language": "fr",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_fr_148",
+    "question": "Quelle forme 3D n'a qu'une seule face ?",
+    "questionType": "spatial",
+    "options": [
+      "Cube",
+      "Sphère",
+      "Cône",
+      "Cylindre"
+    ],
+    "correctAnswer": "Sphère",
+    "difficulty": 2,
+    "category": "Spatial Reasoning",
+    "language": "fr",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_fr_149",
+    "question": "Combien d'angles droits y a-t-il dans un carré ?",
+    "questionType": "spatial",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctAnswer": "4",
+    "difficulty": 1,
+    "category": "Spatial Reasoning",
+    "language": "fr",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_fr_150",
+    "question": "Si vous regardez une horloge par derrière, dans quelle direction se déplacent les aiguilles ?",
+    "questionType": "spatial",
+    "options": [
+      "Dans le sens des aiguilles d'une montre",
+      "Dans le sens inverse des aiguilles d'une montre",
+      "Vers le haut",
+      "Vers le bas"
+    ],
+    "correctAnswer": "Dans le sens inverse des aiguilles d'une montre",
+    "difficulty": 3,
+    "category": "Spatial Reasoning",
+    "language": "fr",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_pt_151",
+    "question": "Qual número vem a seguir na sequência: 2, 4, 8, 16, ?",
+    "questionType": "pattern",
+    "options": [
+      "24",
+      "32",
+      "20",
+      "28"
+    ],
+    "correctAnswer": "32",
+    "difficulty": 1,
+    "category": "Pattern Recognition",
+    "language": "pt",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_pt_152",
+    "question": "Complete o padrão: A, C, E, G, ?",
+    "questionType": "pattern",
+    "options": [
+      "H",
+      "I",
+      "J",
+      "K"
+    ],
+    "correctAnswer": "I",
+    "difficulty": 1,
+    "category": "Pattern Recognition",
+    "language": "pt",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_pt_153",
+    "question": "O que vem a seguir: 1, 1, 2, 3, 5, 8, ?",
+    "questionType": "pattern",
+    "options": [
+      "11",
+      "13",
+      "15",
+      "17"
+    ],
+    "correctAnswer": "13",
+    "difficulty": 2,
+    "category": "Pattern Recognition",
+    "language": "pt",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_pt_154",
+    "question": "Qual forma completa o padrão: Círculo, Quadrado, Triângulo, Círculo, Quadrado, ?",
+    "questionType": "pattern",
+    "options": [
+      "Círculo",
+      "Triângulo",
+      "Quadrado",
+      "Pentágono"
+    ],
+    "correctAnswer": "Triângulo",
+    "difficulty": 1,
+    "category": "Pattern Recognition",
+    "language": "pt",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_pt_155",
+    "question": "Complete: 100, 95, 85, 70, ?",
+    "questionType": "pattern",
+    "options": [
+      "50",
+      "55",
+      "60",
+      "65"
+    ],
+    "correctAnswer": "50",
+    "difficulty": 2,
+    "category": "Pattern Recognition",
+    "language": "pt",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_pt_156",
+    "question": "O que vem a seguir: Z, X, V, T, ?",
+    "questionType": "pattern",
+    "options": [
+      "S",
+      "R",
+      "Q",
+      "P"
+    ],
+    "correctAnswer": "R",
+    "difficulty": 3,
+    "category": "Pattern Recognition",
+    "language": "pt",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_pt_157",
+    "question": "Complete: 3, 6, 12, 24, ?",
+    "questionType": "pattern",
+    "options": [
+      "36",
+      "48",
+      "40",
+      "32"
+    ],
+    "correctAnswer": "48",
+    "difficulty": 2,
+    "category": "Pattern Recognition",
+    "language": "pt",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_pt_158",
+    "question": "O que vem a seguir: 1, 4, 9, 16, 25, ?",
+    "questionType": "pattern",
+    "options": [
+      "30",
+      "36",
+      "35",
+      "49"
+    ],
+    "correctAnswer": "36",
+    "difficulty": 2,
+    "category": "Pattern Recognition",
+    "language": "pt",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_pt_159",
+    "question": "Complete a série: 2, 6, 12, 20, 30, ?",
+    "questionType": "pattern",
+    "options": [
+      "40",
+      "42",
+      "38",
+      "44"
+    ],
+    "correctAnswer": "42",
+    "difficulty": 3,
+    "category": "Pattern Recognition",
+    "language": "pt",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_pt_160",
+    "question": "O que vem a seguir: J, F, M, A, M, ?",
+    "questionType": "pattern",
+    "options": [
+      "J",
+      "S",
+      "A",
+      "N"
+    ],
+    "correctAnswer": "J",
+    "difficulty": 2,
+    "category": "Pattern Recognition",
+    "language": "pt",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_pt_161",
+    "question": "Se todas as rosas são flores e algumas flores murcham rapidamente, qual afirmação deve ser verdadeira?",
+    "questionType": "logic",
+    "options": [
+      "Todas as rosas murcham rapidamente",
+      "Algumas rosas podem murchar rapidamente",
+      "Nenhuma rosa murcha rapidamente",
+      "Todas as flores são rosas"
+    ],
+    "correctAnswer": "Algumas rosas podem murchar rapidamente",
+    "difficulty": 2,
+    "category": "Logic & Reasoning",
+    "language": "pt",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_pt_162",
+    "question": "João é mais alto que Maria. Maria é mais alta que Sara. Quem é a mais baixa?",
+    "questionType": "logic",
+    "options": [
+      "João",
+      "Maria",
+      "Sara",
+      "Não é possível determinar"
+    ],
+    "correctAnswer": "Sara",
+    "difficulty": 1,
+    "category": "Logic & Reasoning",
+    "language": "pt",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_pt_163",
+    "question": "Se está chovendo, o chão está molhado. O chão está molhado. O que podemos concluir?",
+    "questionType": "logic",
+    "options": [
+      "Está chovendo",
+      "Pode estar chovendo",
+      "Não está chovendo",
+      "Nenhuma das anteriores"
+    ],
+    "correctAnswer": "Pode estar chovendo",
+    "difficulty": 3,
+    "category": "Logic & Reasoning",
+    "language": "pt",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_pt_164",
+    "question": "Todos os pássaros têm penas. Algumas coisas com penas podem voar. Portanto:",
+    "questionType": "logic",
+    "options": [
+      "Todos os pássaros podem voar",
+      "Alguns pássaros podem voar",
+      "Nenhum pássaro pode voar",
+      "Todas as coisas que voam são pássaros"
+    ],
+    "correctAnswer": "Alguns pássaros podem voar",
+    "difficulty": 2,
+    "category": "Logic & Reasoning",
+    "language": "pt",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_pt_165",
+    "question": "Se A está a oeste de B, e B está a oeste de C, qual é a relação entre A e C?",
+    "questionType": "logic",
+    "options": [
+      "A está a oeste de C",
+      "A está a leste de C",
+      "A é igual a C",
+      "Não é possível determinar"
+    ],
+    "correctAnswer": "A está a oeste de C",
+    "difficulty": 1,
+    "category": "Logic & Reasoning",
+    "language": "pt",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_pt_166",
+    "question": "Nenhum gato é cachorro. Todos os cachorros são animais. Portanto:",
+    "questionType": "logic",
+    "options": [
+      "Nenhum gato é animal",
+      "Todos os animais são cachorros",
+      "Alguns animais não são gatos",
+      "Todos os gatos são animais"
+    ],
+    "correctAnswer": "Alguns animais não são gatos",
+    "difficulty": 3,
+    "category": "Logic & Reasoning",
+    "language": "pt",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_pt_167",
+    "question": "Se hoje é segunda-feira, que dia era há 10 dias?",
+    "questionType": "logic",
+    "options": [
+      "Segunda",
+      "Sexta",
+      "Sábado",
+      "Domingo"
+    ],
+    "correctAnswer": "Sexta",
+    "difficulty": 2,
+    "category": "Logic & Reasoning",
+    "language": "pt",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_pt_168",
+    "question": "A é mais velho que B. C é mais jovem que B. Quem é o mais jovem?",
+    "questionType": "logic",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "Não é possível determinar"
+    ],
+    "correctAnswer": "C",
+    "difficulty": 1,
+    "category": "Logic & Reasoning",
+    "language": "pt",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_pt_169",
+    "question": "Se alguns estudantes são atletas e todos os atletas são saudáveis, o que deve ser verdade?",
+    "questionType": "logic",
+    "options": [
+      "Todos os estudantes são saudáveis",
+      "Alguns estudantes são saudáveis",
+      "Nenhum estudante é saudável",
+      "Todas as pessoas saudáveis são estudantes"
+    ],
+    "correctAnswer": "Alguns estudantes são saudáveis",
+    "difficulty": 2,
+    "category": "Logic & Reasoning",
+    "language": "pt",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_pt_170",
+    "question": "Vermelho é mais escuro que rosa. Azul é mais escuro que vermelho. Qual é o mais claro?",
+    "questionType": "logic",
+    "options": [
+      "Vermelho",
+      "Rosa",
+      "Azul",
+      "Não é possível determinar"
+    ],
+    "correctAnswer": "Rosa",
+    "difficulty": 1,
+    "category": "Logic & Reasoning",
+    "language": "pt",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_pt_171",
+    "question": "Quanto é 15% de 200?",
+    "questionType": "math",
+    "options": [
+      "20",
+      "25",
+      "30",
+      "35"
+    ],
+    "correctAnswer": "30",
+    "difficulty": 1,
+    "category": "Mathematical Skills",
+    "language": "pt",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_pt_172",
+    "question": "Se x + 5 = 12, qual é o valor de x?",
+    "questionType": "math",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correctAnswer": "7",
+    "difficulty": 1,
+    "category": "Mathematical Skills",
+    "language": "pt",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_pt_173",
+    "question": "Uma camisa custa R$40 após um desconto de 20%. Qual era o preço original?",
+    "questionType": "math",
+    "options": [
+      "R$45",
+      "R$48",
+      "R$50",
+      "R$55"
+    ],
+    "correctAnswer": "R$50",
+    "difficulty": 2,
+    "category": "Mathematical Skills",
+    "language": "pt",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_pt_174",
+    "question": "Qual é a média de 10, 20 e 30?",
+    "questionType": "math",
+    "options": [
+      "15",
+      "20",
+      "25",
+      "30"
+    ],
+    "correctAnswer": "20",
+    "difficulty": 1,
+    "category": "Mathematical Skills",
+    "language": "pt",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_pt_175",
+    "question": "Se 3x = 21, qual é o valor de x?",
+    "questionType": "math",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correctAnswer": "7",
+    "difficulty": 1,
+    "category": "Mathematical Skills",
+    "language": "pt",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_pt_176",
+    "question": "Quanto é 25% de 80?",
+    "questionType": "math",
+    "options": [
+      "15",
+      "20",
+      "25",
+      "30"
+    ],
+    "correctAnswer": "20",
+    "difficulty": 1,
+    "category": "Mathematical Skills",
+    "language": "pt",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_pt_177",
+    "question": "Um retângulo tem comprimento 8 e largura 5. Qual é sua área?",
+    "questionType": "math",
+    "options": [
+      "30",
+      "35",
+      "40",
+      "45"
+    ],
+    "correctAnswer": "40",
+    "difficulty": 1,
+    "category": "Mathematical Skills",
+    "language": "pt",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_pt_178",
+    "question": "Se y - 8 = 15, qual é o valor de y?",
+    "questionType": "math",
+    "options": [
+      "20",
+      "21",
+      "22",
+      "23"
+    ],
+    "correctAnswer": "23",
+    "difficulty": 1,
+    "category": "Mathematical Skills",
+    "language": "pt",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_pt_179",
+    "question": "Quanto é 1/4 de 100?",
+    "questionType": "math",
+    "options": [
+      "20",
+      "25",
+      "30",
+      "40"
+    ],
+    "correctAnswer": "25",
+    "difficulty": 1,
+    "category": "Mathematical Skills",
+    "language": "pt",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_pt_180",
+    "question": "Um carro percorre 60 milhas em 2 horas. Qual é sua velocidade média?",
+    "questionType": "math",
+    "options": [
+      "25 mph",
+      "30 mph",
+      "35 mph",
+      "40 mph"
+    ],
+    "correctAnswer": "30 mph",
+    "difficulty": 2,
+    "category": "Mathematical Skills",
+    "language": "pt",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_pt_181",
+    "question": "Escolha a palavra que é mais oposta a DIFÍCIL:",
+    "questionType": "verbal",
+    "options": [
+      "Duro",
+      "Simples",
+      "Complexo",
+      "Desafiador"
+    ],
+    "correctAnswer": "Simples",
+    "difficulty": 1,
+    "category": "Verbal Reasoning",
+    "language": "pt",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_pt_182",
+    "question": "Qual palavra não pertence ao grupo: Maçã, Banana, Cenoura, Laranja",
+    "questionType": "verbal",
+    "options": [
+      "Maçã",
+      "Banana",
+      "Cenoura",
+      "Laranja"
+    ],
+    "correctAnswer": "Cenoura",
+    "difficulty": 1,
+    "category": "Verbal Reasoning",
+    "language": "pt",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_pt_183",
+    "question": "Escolha o sinônimo de FELIZ:",
+    "questionType": "verbal",
+    "options": [
+      "Triste",
+      "Alegre",
+      "Irritado",
+      "Cansado"
+    ],
+    "correctAnswer": "Alegre",
+    "difficulty": 1,
+    "category": "Verbal Reasoning",
+    "language": "pt",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_pt_184",
+    "question": "Complete a analogia: Quente está para Frio como Dia está para ?",
+    "questionType": "verbal",
+    "options": [
+      "Luz",
+      "Noite",
+      "Sol",
+      "Lua"
+    ],
+    "correctAnswer": "Noite",
+    "difficulty": 1,
+    "category": "Verbal Reasoning",
+    "language": "pt",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_pt_185",
+    "question": "Qual palavra é mais semelhante a CORAJOSO:",
+    "questionType": "verbal",
+    "options": [
+      "Medroso",
+      "Valente",
+      "Fraco",
+      "Tímido"
+    ],
+    "correctAnswer": "Valente",
+    "difficulty": 1,
+    "category": "Verbal Reasoning",
+    "language": "pt",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_pt_186",
+    "question": "Complete: Gato está para Miar como Cachorro está para ?",
+    "questionType": "verbal",
+    "options": [
+      "Ronronar",
+      "Latir",
+      "Piar",
+      "Rugir"
+    ],
+    "correctAnswer": "Latir",
+    "difficulty": 1,
+    "category": "Verbal Reasoning",
+    "language": "pt",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_pt_187",
+    "question": "Escolha o oposto de ANTIGO:",
+    "questionType": "verbal",
+    "options": [
+      "Velho",
+      "Moderno",
+      "Histórico",
+      "Tradicional"
+    ],
+    "correctAnswer": "Moderno",
+    "difficulty": 1,
+    "category": "Verbal Reasoning",
+    "language": "pt",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_pt_188",
+    "question": "O que não pertence ao grupo: Cadeira, Mesa, Escrivaninha, Maçã",
+    "questionType": "verbal",
+    "options": [
+      "Cadeira",
+      "Mesa",
+      "Escrivaninha",
+      "Maçã"
+    ],
+    "correctAnswer": "Maçã",
+    "difficulty": 1,
+    "category": "Verbal Reasoning",
+    "language": "pt",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_pt_189",
+    "question": "Complete a analogia: Peixe está para Água como Pássaro está para ?",
+    "questionType": "verbal",
+    "options": [
+      "Ninho",
+      "Ar",
+      "Árvore",
+      "Céu"
+    ],
+    "correctAnswer": "Ar",
+    "difficulty": 2,
+    "category": "Verbal Reasoning",
+    "language": "pt",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_pt_190",
+    "question": "Escolha o sinônimo de DIFÍCIL:",
+    "questionType": "verbal",
+    "options": [
+      "Fácil",
+      "Duro",
+      "Simples",
+      "Claro"
+    ],
+    "correctAnswer": "Duro",
+    "difficulty": 1,
+    "category": "Verbal Reasoning",
+    "language": "pt",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_pt_191",
+    "question": "Quantas faces tem um cubo?",
+    "questionType": "spatial",
+    "options": [
+      "4",
+      "6",
+      "8",
+      "12"
+    ],
+    "correctAnswer": "6",
+    "difficulty": 1,
+    "category": "Spatial Reasoning",
+    "language": "pt",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_pt_192",
+    "question": "Se você girar um quadrado 90 graus, que forma você obtém?",
+    "questionType": "spatial",
+    "options": [
+      "Retângulo",
+      "Quadrado",
+      "Triângulo",
+      "Círculo"
+    ],
+    "correctAnswer": "Quadrado",
+    "difficulty": 1,
+    "category": "Spatial Reasoning",
+    "language": "pt",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_pt_193",
+    "question": "Quantos lados tem um pentágono?",
+    "questionType": "spatial",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "correctAnswer": "5",
+    "difficulty": 1,
+    "category": "Spatial Reasoning",
+    "language": "pt",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_pt_194",
+    "question": "Qual direção é oposta ao Norte?",
+    "questionType": "spatial",
+    "options": [
+      "Leste",
+      "Oeste",
+      "Sul",
+      "Nordeste"
+    ],
+    "correctAnswer": "Sul",
+    "difficulty": 1,
+    "category": "Spatial Reasoning",
+    "language": "pt",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_pt_195",
+    "question": "Quantos cantos tem um triângulo?",
+    "questionType": "spatial",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctAnswer": "3",
+    "difficulty": 1,
+    "category": "Spatial Reasoning",
+    "language": "pt",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_pt_196",
+    "question": "Se você dobrar um quadrado ao meio, que formas você pode fazer?",
+    "questionType": "spatial",
+    "options": [
+      "Círculo",
+      "Retângulo",
+      "Triângulo",
+      "Pentágono"
+    ],
+    "correctAnswer": "Retângulo",
+    "difficulty": 2,
+    "category": "Spatial Reasoning",
+    "language": "pt",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_pt_197",
+    "question": "Quantas arestas tem um cubo?",
+    "questionType": "spatial",
+    "options": [
+      "6",
+      "8",
+      "10",
+      "12"
+    ],
+    "correctAnswer": "12",
+    "difficulty": 2,
+    "category": "Spatial Reasoning",
+    "language": "pt",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_pt_198",
+    "question": "Qual forma 3D tem apenas uma face?",
+    "questionType": "spatial",
+    "options": [
+      "Cubo",
+      "Esfera",
+      "Cone",
+      "Cilindro"
+    ],
+    "correctAnswer": "Esfera",
+    "difficulty": 2,
+    "category": "Spatial Reasoning",
+    "language": "pt",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_pt_199",
+    "question": "Quantos ângulos retos há em um quadrado?",
+    "questionType": "spatial",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctAnswer": "4",
+    "difficulty": 1,
+    "category": "Spatial Reasoning",
+    "language": "pt",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  },
+  {
+    "id": "iq_pt_200",
+    "question": "Se você olhar para um relógio por trás, em que direção os ponteiros se movem?",
+    "questionType": "spatial",
+    "options": [
+      "No sentido horário",
+      "No sentido anti-horário",
+      "Para cima",
+      "Para baixo"
+    ],
+    "correctAnswer": "No sentido anti-horário",
+    "difficulty": 3,
+    "category": "Spatial Reasoning",
+    "language": "pt",
+    "createdAt": "2025-12-05T11:14:44.762Z"
+  }
+]

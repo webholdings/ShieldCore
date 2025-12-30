@@ -1,0 +1,212 @@
+[
+    {
+        "id": "iq_pattern_1",
+        "question": "What comes next in the sequence: 2, 4, 8, 16, ?",
+        "questionType": "pattern",
+        "options": [
+            "24",
+            "32",
+            "64",
+            "128"
+        ],
+        "correctAnswer": 1,
+        "difficulty": "easy",
+        "category": "Pattern Recognition"
+    },
+    {
+        "id": "iq_pattern_2",
+        "question": "Complete the sequence: 1, 3, 5, 7, ?",
+        "questionType": "pattern",
+        "options": [
+            "8",
+            "9",
+            "10",
+            "11"
+        ],
+        "correctAnswer": 1,
+        "difficulty": "easy",
+        "category": "Pattern Recognition"
+    },
+    {
+        "id": "iq_pattern_3",
+        "question": "What number should replace the question mark: 2, 6, 12, 20, 30, ?",
+        "questionType": "pattern",
+        "options": [
+            "40",
+            "42",
+            "44",
+            "48"
+        ],
+        "correctAnswer": 1,
+        "difficulty": "medium",
+        "category": "Pattern Recognition"
+    },
+    {
+        "id": "iq_pattern_4",
+        "question": "Find the next number: 1, 1, 2, 3, 5, 8, ?",
+        "questionType": "pattern",
+        "options": [
+            "11",
+            "12",
+            "13",
+            "14"
+        ],
+        "correctAnswer": 2,
+        "difficulty": "medium",
+        "category": "Pattern Recognition"
+    },
+    {
+        "id": "iq_pattern_5",
+        "question": "What comes next: 3, 7, 15, 31, 63, ?",
+        "questionType": "pattern",
+        "options": [
+            "95",
+            "115",
+            "127",
+            "131"
+        ],
+        "correctAnswer": 2,
+        "difficulty": "hard",
+        "category": "Pattern Recognition"
+    },
+    {
+        "id": "iq_pattern_6",
+        "question": "Identify the next number: 2, 3, 5, 7, 11, 13, ?",
+        "questionType": "pattern",
+        "options": [
+            "15",
+            "17",
+            "19",
+            "21"
+        ],
+        "correctAnswer": 1,
+        "difficulty": "hard",
+        "category": "Pattern Recognition"
+    },
+    {
+        "id": "iq_logic_1",
+        "question": "If all Bloops are Razzies and all Razzies are Lazzies, then all Bloops are definitely Lazzies.",
+        "questionType": "logic",
+        "options": [
+            "True",
+            "False",
+            "Maybe",
+            "Cannot be determined"
+        ],
+        "correctAnswer": 0,
+        "difficulty": "easy",
+        "category": "Logic & Reasoning"
+    },
+    {
+        "id": "iq_logic_2",
+        "question": "If 5 machines take 5 minutes to make 5 widgets, how long would it take 100 machines to make 100 widgets?",
+        "questionType": "logic",
+        "options": [
+            "5 minutes",
+            "20 minutes",
+            "100 minutes",
+            "500 minutes"
+        ],
+        "correctAnswer": 0,
+        "difficulty": "easy",
+        "category": "Logic & Reasoning"
+    },
+    {
+        "id": "iq_logic_3",
+        "question": "A bat and a ball cost $1.10 in total. The bat costs $1.00 more than the ball. How much does the ball cost?",
+        "questionType": "logic",
+        "options": [
+            "$0.10",
+            "$0.05",
+            "$0.15",
+            "$0.20"
+        ],
+        "correctAnswer": 1,
+        "difficulty": "medium",
+        "category": "Logic & Reasoning"
+    },
+    {
+        "id": "iq_logic_4",
+        "question": "If some Flibs are Globs, and all Globs are Snobs, which statement must be true?",
+        "questionType": "logic",
+        "options": [
+            "All Flibs are Snobs",
+            "Some Flibs are Snobs",
+            "No Flibs are Snobs",
+            "All Snobs are Flibs"
+        ],
+        "correctAnswer": 1,
+        "difficulty": "medium",
+        "category": "Logic & Reasoning"
+    },
+    {
+        "id": "iq_logic_5",
+        "question": "Three switches control three light bulbs in another room. You can flip the switches as you like, but can only enter the room once. How can you determine which switch controls which bulb?",
+        "questionType": "logic",
+        "options": [
+            "Turn on switch 1, wait, turn it off, turn on switch 2, then check",
+            "Turn on all switches at once",
+            "Turn on switch 1 and 2, then check",
+            "It's impossible to determine"
+        ],
+        "correctAnswer": 0,
+        "difficulty": "hard",
+        "category": "Logic & Reasoning"
+    },
+    {
+        "id": "iq_logic_6",
+        "question": "You have two coins totaling 30 cents. One of them is not a nickel. What are the two coins?",
+        "questionType": "logic",
+        "options": [
+            "Quarter and Nickel",
+            "Dime and Nickel",
+            "Two Quarters",
+            "Quarter and Dime"
+        ],
+        "correctAnswer": 0,
+        "difficulty": "hard",
+        "category": "Logic & Reasoning"
+    },
+    {
+        "id": "iq_spatial_1",
+        "question": "How many faces does a cube have?",
+        "questionType": "spatial",
+        "options": [
+            "4",
+            "6",
+            "8",
+            "12"
+        ],
+        "correctAnswer": 1,
+        "difficulty": "easy",
+        "category": "Spatial Reasoning"
+    },
+    {
+        "id": "iq_spatial_2",
+        "question": "If you fold a square piece of paper in half twice and cut off one corner, how many holes will the unfolded paper have?",
+        "questionType": "spatial",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "correctAnswer": 0,
+        "difficulty": "easy",
+        "category": "Spatial Reasoning"
+    },
+    {
+        "id": "iq_spatial_3",
+        "question": "A cube is painted red on all faces and then cut into 27 smaller cubes of equal size. How many small cubes have exactly 2 red faces?",
+        "questionType": "spatial",
+        "options": [
+            "8",
+            "12",
+            "6",
+            "4"
+        ],
+        "correctAnswer": 1,
+        "difficulty": "medium",
+        "category": "Spatial Reasoning"
+    }
+]

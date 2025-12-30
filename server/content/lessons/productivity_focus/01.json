@@ -1,0 +1,13 @@
+{
+  "id": "productivity_focus_01",
+  "courseId": "productivity_focus",
+  "orderIndex": 1,
+  "estimatedMinutes": 12,
+  "youtubeVideos": [
+    {
+      "title": "Deep Work - Cal Newport",
+      "url": "https://www.youtube.com/watch?v=gTaJhjQHcf8",
+      "duration": "15:20"
+    }
+  ]
+}

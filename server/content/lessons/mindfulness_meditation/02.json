@@ -1,0 +1,13 @@
+{
+  "id": "mindfulness_meditation_02",
+  "courseId": "mindfulness_meditation",
+  "orderIndex": 2,
+  "estimatedMinutes": 12,
+  "youtubeVideos": [
+    {
+      "title": "Box Breathing Technique4 - Navy SEALs",
+      "url": "https://www.youtube.com/watch?v=YRgRYLS4bOA",
+      "duration": "6:30"
+    }
+  ]
+}

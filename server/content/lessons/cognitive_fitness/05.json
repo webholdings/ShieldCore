@@ -1,0 +1,13 @@
+{
+  "id": "cognitive_fitness_05",
+  "courseId": "cognitive_fitness",
+  "orderIndex": 5,
+  "estimatedMinutes": 12,
+  "youtubeVideos": [
+    {
+      "title": "Master Your Sleep - Dr. Matthew Walker",
+      "url": "https://www.youtube.com/watch?v=nm1TxQj9IsQ",
+      "duration": "22:15"
+    }
+  ]
+}

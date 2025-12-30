@@ -1,0 +1,56 @@
+
+2025-10-30T19:04:58+00:00 Information Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => b83f5cfa2f8d128bda68e47f84099265
+            [Date] => 30. Oktober 2025 @ 19:04
+            [URL] => https://creative-waves-ricardoreplit2.replit.app/api/webhook/subscription-created
+            [Duration] => 0.87694
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/10.3.3 Hookshot (WordPress/6.8.3)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://buy.creativewaves.me/
+                            [X-WC-Webhook-Topic] => subscription.created
+                            [X-WC-Webhook-Resource] => subscription
+                            [X-WC-Webhook-Event] => created
+                            [X-WC-Webhook-Signature] => EGP80Wh54cxIBKXE166jkamIU8LBFFYhNQYwqza9NmA=
+                            [X-WC-Webhook-ID] => 1
+                            [X-WC-Webhook-Delivery-ID] => b83f5cfa2f8d128bda68e47f84099265
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 400
+                    [Message] => Bad Request
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-length] => 29
+                                    [content-type] => application/json; charset=utf-8
+                                    [date] => Thu, 30 Oct 2025 19:04:58 GMT
+                                    [etag] => W/"1d-mMQEZnTO/3qB7E+LMqZBtJ5tIa8"
+                                    [server] => Google Frontend
+                                    [strict-transport-security] => max-age=63072000; includeSubDomains
+                                    [x-cloud-trace-context] => 1c42bcdffd99719c931cc7d80a8114fc;o=1
+                                    [x-powered-by] => Express
+                                    [via] => 1.1 google
+                                    [alt-svc] => h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)

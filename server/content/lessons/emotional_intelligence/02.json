@@ -1,0 +1,13 @@
+{
+  "id": "emotional_intelligence_02",
+  "courseId": "emotional_intelligence",
+  "orderIndex": 2,
+  "estimatedMinutes": 12,
+  "youtubeVideos": [
+    {
+      "title": "The Power of Self-Awareness",
+      "url": "https://www.youtube.com/watch?v=tGdsOXZpyWE",
+      "duration": "9:20"
+    }
+  ]
+}

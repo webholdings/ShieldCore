@@ -1,0 +1,13 @@
+{
+  "id": "mindfulness_meditation_03",
+  "courseId": "mindfulness_meditation",
+  "orderIndex": 3,
+  "estimatedMinutes": 12,
+  "youtubeVideos": [
+    {
+      "title": "Guided Body Scan - UCLA Mindful",
+      "url": "https://www.youtube.com/watch?v=15q-N-_kkrU",
+      "duration": "12:00"
+    }
+  ]
+}

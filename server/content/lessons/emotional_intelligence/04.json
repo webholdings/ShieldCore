@@ -1,0 +1,13 @@
+{
+  "id": "emotional_intelligence_04",
+  "courseId": "emotional_intelligence",
+  "orderIndex": 4,
+  "estimatedMinutes": 12,
+  "youtubeVideos": [
+    {
+      "title": "Nonviolent Communication - Marshall Rosenberg",
+      "url": "https://www.youtube.com/watch?v=9SiQAVMLOPk",
+      "duration": "16:40"
+    }
+  ]
+}

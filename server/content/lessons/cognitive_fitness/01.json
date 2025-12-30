@@ -1,0 +1,13 @@
+{
+  "id": "cognitive_fitness_01",
+  "courseId": "cognitive_fitness",
+  "orderIndex": 1,
+  "estimatedMinutes": 12,
+  "youtubeVideos": [
+    {
+      "title": "How Neuroplasticity Works - Dr. Andrew Huberman",
+      "url": "https://www.youtube.com/watch?v=TkgEYw7vMdU",
+      "duration": "10:23"
+    }
+  ]
+}

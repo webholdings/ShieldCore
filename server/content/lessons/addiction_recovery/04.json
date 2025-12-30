@@ -1,0 +1,13 @@
+{
+  "id": "addiction_recovery_04",
+  "courseId": "addiction_recovery",
+  "orderIndex": 4,
+  "estimatedMinutes": 12,
+  "youtubeVideos": [
+    {
+      "title": "The Power of Connection in Recovery",
+      "url": "https://www.youtube.com/watch?v=6_-okhG2Stk",
+      "duration": "12:40"
+    }
+  ]
+}

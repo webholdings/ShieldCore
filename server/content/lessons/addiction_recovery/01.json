@@ -1,0 +1,13 @@
+{
+  "id": "addiction_recovery_01",
+  "courseId": "addiction_recovery",
+  "orderIndex": 1,
+  "estimatedMinutes": 12,
+  "youtubeVideos": [
+    {
+      "title": "The Brain and Addiction - Dr. Nora Volkow",
+      "url": "https://www.youtube.com/watch?v=7oL6zpv0B60",
+      "duration": "13:25"
+    }
+  ]
+}

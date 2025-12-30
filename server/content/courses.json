@@ -1,0 +1,42 @@
+[
+    {
+        "id": "cognitive_fitness",
+        "category": "Brain Health",
+        "difficulty": "All Levels",
+        "duration": "10 lessons",
+        "orderIndex": 1,
+        "imageUrl": "https://images.unsplash.com/photo-1559757175-5700dde675bc?w=800&q=80"
+    },
+    {
+        "id": "mindfulness_meditation",
+        "category": "Mental Wellness",
+        "difficulty": "Beginner",
+        "duration": "10 lessons",
+        "orderIndex": 2,
+        "imageUrl": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80"
+    },
+    {
+        "id": "addiction_recovery",
+        "category": "Behavioral Change",
+        "difficulty": "Intermediate",
+        "duration": "10 lessons",
+        "orderIndex": 3,
+        "imageUrl": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=800&q=80"
+    },
+    {
+        "id": "emotional_intelligence",
+        "category": "Personal Development",
+        "difficulty": "Beginner",
+        "duration": "10 lessons",
+        "orderIndex": 4,
+        "imageUrl": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=800&q=80"
+    },
+    {
+        "id": "productivity_focus",
+        "category": "Performance",
+        "difficulty": "All Levels",
+        "duration": "10 lessons",
+        "orderIndex": 5,
+        "imageUrl": "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=800&q=80"
+    }
+]

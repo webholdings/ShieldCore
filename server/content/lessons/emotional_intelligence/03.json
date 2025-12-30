@@ -1,0 +1,13 @@
+{
+  "id": "emotional_intelligence_03",
+  "courseId": "emotional_intelligence",
+  "orderIndex": 3,
+  "estimatedMinutes": 12,
+  "youtubeVideos": [
+    {
+      "title": "The Power of Empathy - Bren\u00e9 Brown",
+      "url": "https://www.youtube.com/watch?v=1Evwgu369Jw",
+      "duration": "13:15"
+    }
+  ]
+}

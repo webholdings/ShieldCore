@@ -1,0 +1,13 @@
+{
+  "id": "cognitive_fitness_03",
+  "courseId": "cognitive_fitness",
+  "orderIndex": 3,
+  "estimatedMinutes": 12,
+  "youtubeVideos": [
+    {
+      "title": "The Science of Attention - Dr. Amishi Jha",
+      "url": "https://www.youtube.com/watch?v=7oKjW1OIjuw",
+      "duration": "14:20"
+    }
+  ]
+}

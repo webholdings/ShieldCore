@@ -1,0 +1,12 @@
+name: Debug Trigger
+
+on: [push]
+
+jobs:
+  debug:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Log
+        run: echo "Debug workflow triggered successfully!"

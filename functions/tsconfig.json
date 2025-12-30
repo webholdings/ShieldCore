@@ -1,0 +1,40 @@
+{
+    "compilerOptions": {
+        "module": "esnext",
+        "moduleResolution": "node",
+        "noImplicitReturns": false,
+        "noUnusedLocals": false,
+        "outDir": "lib",
+        "sourceMap": true,
+        "strict": true,
+        "target": "es2020",
+        "esModuleInterop": true,
+        "skipLibCheck": true,
+        "forceConsistentCasingInFileNames": true,
+        "allowSyntheticDefaultImports": true,
+        "baseUrl": ".",
+        "paths": {
+            "@shared/*": [
+                "../shared/*"
+            ],
+            "@/*": [
+                "../client/src/*"
+            ]
+        }
+    },
+    "compileOnSave": true,
+    "include": [
+        "src",
+        "../server",
+        "../shared"
+    ],
+    "exclude": [
+        "../server/seed-courses.ts",
+        "../server/seed-courses-multilingual.ts",
+        "../server/seed-demo-user.ts",
+        "../server/seed-iq-questions.ts",
+        "../server/seed-iq-questions-multilingual.ts",
+        "../server/seed-production.ts",
+        "../server/update-demo-password.ts"
+    ]
+}

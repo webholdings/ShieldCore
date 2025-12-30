@@ -1,0 +1,13 @@
+{
+  "id": "mindfulness_meditation_04",
+  "courseId": "mindfulness_meditation",
+  "orderIndex": 4,
+  "estimatedMinutes": 12,
+  "youtubeVideos": [
+    {
+      "title": "Emotional Regulation - Tara Brach",
+      "url": "https://www.youtube.com/watch?v=VIEVHjHUJBc",
+      "duration": "16:45"
+    }
+  ]
+}

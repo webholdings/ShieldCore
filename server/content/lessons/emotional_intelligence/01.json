@@ -1,0 +1,13 @@
+{
+  "id": "emotional_intelligence_01",
+  "courseId": "emotional_intelligence",
+  "orderIndex": 1,
+  "estimatedMinutes": 12,
+  "youtubeVideos": [
+    {
+      "title": "Emotional Intelligence Explained - Daniel Goleman",
+      "url": "https://www.youtube.com/watch?v=Y7m9eNoB3NU",
+      "duration": "11:30"
+    }
+  ]
+}

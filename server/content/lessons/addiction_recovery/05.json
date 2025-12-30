@@ -1,0 +1,13 @@
+{
+  "id": "addiction_recovery_05",
+  "courseId": "addiction_recovery",
+  "orderIndex": 5,
+  "estimatedMinutes": 12,
+  "youtubeVideos": [
+    {
+      "title": "Preventing Relapse - Dr. Gabor Mat\u00e9",
+      "url": "https://www.youtube.com/watch?v=kgJXdK9nJO0",
+      "duration": "17:50"
+    }
+  ]
+}
