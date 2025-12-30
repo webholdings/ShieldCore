@@ -18,6 +18,7 @@ import {
 } from '@/components/ui/sidebar';
 
 const navigationGroups = [
+  /*
   {
     id: 'wellness',
     labelKey: 'wellness' as const,
@@ -54,6 +55,7 @@ const navigationGroups = [
       { path: '/mandala', icon: Palette, labelKey: 'mandala' as const, testId: 'nav-mandala' },
     ]
   },
+  */
   {
     id: 'account',
     labelKey: 'account' as const,
@@ -96,7 +98,7 @@ export function AppSidebar() {
               >
                 <Link href="/" data-testid="nav-home" onClick={handleLinkClick}>
                   <Home className="h-5 w-5" />
-                  <span className="text-base">{t.nav.home}</span>
+                  <span className="text-base">Dashboard</span>
                 </Link>
               </SidebarMenuButton>
             </SidebarMenuItem>

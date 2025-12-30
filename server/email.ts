@@ -8,7 +8,7 @@ interface EmailOptions {
 }
 
 export async function sendEmail(options: EmailOptions): Promise<void> {
-  const brevoApiKey = process.env.BREVO_API_KEY || "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";
+  const brevoApiKey = process.env.BREVO_API_KEY;
 
   if (!brevoApiKey) {
     console.error("BREVO_API_KEY is not configured");

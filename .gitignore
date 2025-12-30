@@ -73,3 +73,6 @@ pids
 *.pid
 *.seed
 *.pid.lock
+
+# Firebase Functions Lib
+functions/lib

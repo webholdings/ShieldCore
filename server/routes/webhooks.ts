@@ -77,7 +77,8 @@ router.post("/create-user", async (req, res) => {
             username: username || email,
             password: await hashPassword(tempPassword),
             email,
-            language: "en"
+            language: "en",
+            detoxStartDate: null
         });
 
         // Link any existing quiz results to this user
@@ -172,7 +173,8 @@ router.post("/subscription-created", verifyWebhookSignature, async (req, res) =>
                 username: generatedUsername,
                 password: await hashPassword(dummyPassword),
                 email,
-                language: userLanguage
+                language: userLanguage,
+                detoxStartDate: null
             });
 
             isNewUser = true;

@@ -19,7 +19,8 @@ async function seed() {
         username: "ricdes",
         email: email,
         password: await hashPassword("temp123"), // Password won't be used for Google/Magic Link but required by schema
-        language: "en"
+        language: "en",
+        detoxStartDate: null
     });
 
     // Set active subscription

@@ -141,3 +141,6 @@ app.get('/api/ping', (req, res) => {
 
 // Export scheduled cleanup function
 export { cleanupQuizResults } from "./cleanupQuizResults";
+
+// Export scheduled breach scan function
+export { scheduledBreachScan } from "./triggers/scheduled-scan";

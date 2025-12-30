@@ -2,12 +2,12 @@ import { initializeApp } from "firebase/app";
 import { getAuth } from "firebase/auth";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyAOiEvwPSbmbCnXisb7ec8vGlLMGweTnKc",
-  authDomain: "creativewavesapp2.firebaseapp.com",
-  projectId: "creativewavesapp2",
-  storageBucket: "creativewavesapp2.firebasestorage.app",
-  messagingSenderId: "673109519698",
-  appId: "1:673109519698:web:87bc69b9ade050c4ec9e8b"
+  apiKey: import.meta.env.VITE_FIREBASE_API_KEY,
+  authDomain: "coreshield-cae1b.firebaseapp.com",
+  projectId: "coreshield-cae1b",
+  storageBucket: "coreshield-cae1b.firebasestorage.app",
+  messagingSenderId: "85537261644",
+  appId: "1:85537261644:web:384707ca347e5881a6cce9"
 };
 
 const app = initializeApp(firebaseConfig);

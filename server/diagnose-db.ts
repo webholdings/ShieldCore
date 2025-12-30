@@ -16,7 +16,8 @@ async function diagnose() {
                 username: "diagnostic",
                 password: "password",
                 email: testEmail,
-                language: "en"
+                language: "en",
+                detoxStartDate: null
             });
         }
         console.log(`   ✅ User verified: ${user.id}`);

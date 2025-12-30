@@ -19,7 +19,8 @@ async function seedTestUser() {
         username: "testuser",
         email: email,
         password: await hashPassword("test123"), // Password won't be used for Magic Link but required by schema
-        language: "en"
+        language: "en",
+        detoxStartDate: null
     });
 
     // Set active subscription

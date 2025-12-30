@@ -1,7 +1,7 @@
 import fetch from 'node-fetch';
 import * as fs from 'fs';
 
-const GOOGLE_TRANSLATE_API_KEY = 'AIzaSyAOiEvwPSbmbCnXisb7ec8vGlLMGweTnKc';
+const GOOGLE_TRANSLATE_API_KEY = process.env.GOOGLE_TRANSLATE_API_KEY;
 
 interface TranslationMap {
     [key: string]: string;

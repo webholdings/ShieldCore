@@ -66,6 +66,7 @@ export async function verifyToken(req: Request, res: Response, next: NextFunctio
           username,
           password: "firebase-managed", // Placeholder, auth handled by Firebase
           email,
+          detoxStartDate: null,
           language: "en" // Default language
         });
         console.log(`[AUTH] Created new user: ${user.id} (${user.email})`);
@@ -133,7 +134,8 @@ export function setupAuth(app: Express) {
         username,
         password: "firebase-managed", // Placeholder
         email,
-        language
+        language,
+        detoxStartDate: null
       });
 
       res.status(201).json(user);

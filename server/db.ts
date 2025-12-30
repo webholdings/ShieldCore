@@ -60,8 +60,8 @@ if (getApps().length === 0) {
         // Just initialize with projectId so the app structure loads (for deployment discovery)
         console.log('[DB] Local environment detected (no service-account.json). Skipping applicationDefault() to prevent hangs.');
         initializeApp({
-          serviceAccountId: 'creativewavesapp2@appspot.gserviceaccount.com',
-          projectId: 'creativewavesapp2'
+          serviceAccountId: 'firebase-adminsdk-fbsvc@coreshield-cae1b.iam.gserviceaccount.com',
+          projectId: 'coreshield-cae1b'
         });
       }
     }

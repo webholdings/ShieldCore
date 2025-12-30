@@ -32,6 +32,38 @@ export async function registerRoutes(app: Express): Promise<Server> {
   app.use("/api", aiRouter);             // /chat
   app.use("/api/mental-health", mentalHealthRouter); // /journal
 
+  // ShieldCore: Mock Breach Scan API
+  app.post("/api/breach-scan", async (req, res) => {
+    // Simulate delay
+    await new Promise(r => setTimeout(r, 1000));
+
+    // Mock response
+    res.json({
+      score: 45,
+      safeCount: 12,
+      breaches: [
+        {
+          domain: "adobe.com",
+          date: "2013-10-04",
+          description: "In October 2013, 153 million Adobe accounts were breached. The data included user IDs, names, encrypted passwords and plain text password hints.",
+          dataClasses: ["Email addresses", "Password hints", "Passwords", "Usernames"]
+        },
+        {
+          domain: "linkedin.com",
+          date: "2012-05-15",
+          description: "In 2012, LinkedIn was hacked and 6.5 million password hashes were posted to a Russian hacker forum.",
+          dataClasses: ["Email addresses", "Passwords"]
+        },
+        {
+          domain: "canva.com",
+          date: "2019-05-24",
+          description: "In May 2019, Canva suffered a data breach that impacted 137 million subscribers. The exposed data included email addresses, names, cities and bcrypt hashed passwords.",
+          dataClasses: ["Email addresses", "Names", "Passwords", "Usernames", "Locations"]
+        }
+      ]
+    });
+  });
+
   // Webhooks - mount at both locations to support existing external configs
   app.use("/api/webhook", webhooksRouter);
   app.use("/webhook", webhooksRouter);

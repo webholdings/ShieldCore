@@ -47,6 +47,12 @@ const SleepSoundsLazy = lazy(() => import("@/pages/SleepSounds"));
 const SleepPlanFunnelLazy = lazy(() => import("@/pages/SleepPlanFunnel"));
 const MentalHealthDashboardLazy = lazy(() => import("@/pages/MentalHealthDashboard"));
 
+// ShieldCore Pages
+const SecurityDashboardLazy = lazy(() => import("@/pages/SecurityDashboard"));
+const SecurityCheckupLazy = lazy(() => import("@/pages/SecurityCheckup"));
+const ScanPageLazy = lazy(() => import("@/pages/ScanPage"));
+const ResultsPageLazy = lazy(() => import("@/pages/ResultsPage"));
+
 // Wrapper components to satisfy wouter's component prop type
 const Dashboard = () => <DashboardLazy />;
 const Home = () => <HomeLazy />;
@@ -67,6 +73,12 @@ const SleepDashboard = () => <SleepDashboardLazy />;
 const SleepSounds = () => <SleepSoundsLazy />;
 const SleepPlanFunnel = () => <SleepPlanFunnelLazy />;
 const MentalHealthDashboard = () => <MentalHealthDashboardLazy />;
+
+// ShieldCore Wrappers
+const SecurityDashboard = () => <SecurityDashboardLazy />;
+const SecurityCheckup = () => <SecurityCheckupLazy />;
+const ScanPage = () => <ScanPageLazy />;
+const ResultsPage = () => <ResultsPageLazy />;
 const AuthPage = () => <AuthPageLazy />;
 
 const MagicLinkPage = () => <MagicLinkPageLazy />;
@@ -78,11 +90,6 @@ const Sudoku = () => <SudokuLazy />;
 
 // New RootRedirect component
 const RootRedirect = () => {
-  const { user } = useAuth();
-
-  if (user?.isSleepCustomer) {
-    return <Redirect to="/sleep" />;
-  }
   return <Redirect to="/dashboard" />;
 };
 
@@ -194,8 +201,12 @@ function SidebarLayout() {
             </div>
           }>
             <Switch>
-              <ProtectedRoute path="/" component={RootRedirect} />
-              <ProtectedRoute path="/dashboard" component={Dashboard} />
+              <ProtectedRoute path="/" component={SecurityDashboard} />
+              <ProtectedRoute path="/dashboard" component={SecurityDashboard} />
+              <ProtectedRoute path="/security-checkup" component={SecurityCheckup} />
+              <ProtectedRoute path="/scan" component={ScanPage} />
+              <ProtectedRoute path="/results" component={ResultsPage} />
+              {/*
               <ProtectedRoute path="/audio" component={Home} />
               <ProtectedRoute path="/courses" component={Courses} />
               <ProtectedRoute path="/courses/:id" component={CourseDetail} />
@@ -205,7 +216,6 @@ function SidebarLayout() {
               <ProtectedRoute path="/breathing" component={BreathingExercise} />
               <ProtectedRoute path="/mood" component={Mood} />
               <ProtectedRoute path="/journal" component={Journal} />
-              <ProtectedRoute path="/profile" component={Profile} />
               <ProtectedRoute path="/mandala" component={MandalaStudio} />
               <ProtectedRoute path="/recovery" component={AddictionRecovery} />
               <ProtectedRoute path="/ai-assistant" component={AIAssistant} />
@@ -214,6 +224,7 @@ function SidebarLayout() {
               <ProtectedRoute path="/sleep-sounds" component={SleepSounds} />
               <ProtectedRoute path="/sleep-plan" component={SleepPlanFunnel} />
               <ProtectedRoute path="/mental-health" component={MentalHealthDashboard} />
+               */}
               <ProtectedRoute path="/admin" component={AdminUserManagement} />
               {/* Auth routes are handled above, but kept here for completeness if needed, though unreachable due to isAuthPage check */}
               <Route path="/terms" component={TermsPage} />
